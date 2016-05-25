@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 import static org.junit.Assert.fail;
 
 /**
- * Created by usuario on 25/05/2016.
+ * Created by chandi on 25/05/2016.
  */
 public class TestLinks {
     private WebDriver driver;
