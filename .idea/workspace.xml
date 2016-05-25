@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="TestFacePageMember2">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestFacePageMember2.java" />
+    <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestLinkWP.java" afterPath="$PROJECT_DIR$/src/test/java/TestLinkWP.java" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1231,7 +1229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464216836374</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="TestFacePageMember2">
+      <created>1464217705881</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1464217705881</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TestHistory">
