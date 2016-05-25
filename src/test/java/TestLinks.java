@@ -31,6 +31,7 @@ public class TestLinks {
         driver.get(baseUrl + "/src/main/index.html");
         driver.findElement(By.linkText("My CV")).click();
 
+
     }
 
     @After

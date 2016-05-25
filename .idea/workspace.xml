@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="Actualizacion web page">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TeamMainPageTest.class" afterPath="$PROJECT_DIR$/target/test-classes/TeamMainPageTest.class" />
+    <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestLinks.java" afterPath="$PROJECT_DIR$/src/test/java/TestLinks.java" />
     </list>
@@ -33,32 +33,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="302">
               <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestLinks.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestLinks.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestLinks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-              <folding />
+            <state relative-caret-position="237">
+              <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,9 +59,8 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="271">
-              <caret line="23" column="38" selection-start-line="22" selection-start-column="6" selection-end-line="23" selection-end-column="38" />
+              <caret line="21" column="38" selection-start-line="20" selection-start-column="7" selection-end-line="21" selection-end-column="38" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -79,10 +70,21 @@
       <file leaf-file-name="VerifyTextMember2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18">
-              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="-92">
+              <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerifyInfoMember1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+              <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -193,10 +195,11 @@
         <option value="$PROJECT_DIR$/src/main/css/style.css" />
         <option value="$PROJECT_DIR$/src/main/index.html" />
         <option value="$PROJECT_DIR$/src/test/java/TeamMainPageTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/VerifyTextMember1.java" />
         <option value="$PROJECT_DIR$/src/test/java/verifyTextMember2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/VerifyTextMember1.java" />
         <option value="$PROJECT_DIR$/src/test/java/VerifyTextMember2.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestLinks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java" />
       </list>
     </option>
   </component>
@@ -435,7 +438,7 @@
       <recent name="D:\WebdriverJenkinsGithub\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.VerifyTextMember2.testVerifyTextMember2">
+  <component name="RunManager" selected="JUnit.VerifyInfoMember1.testVerifyInfoMember1">
     <configuration default="false" name="TeamMainPageTest.testJCBTeamMemberLink" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="WebdriverJenkinsGithub" />
@@ -478,27 +481,6 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="TestLinks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="WebdriverJenkinsGithub" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestLinks" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="false" name="VerifyTextMember1.testVerifyTextMember1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="WebdriverJenkinsGithub" />
@@ -528,6 +510,27 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="VerifyTextMember2" />
       <option name="METHOD_NAME" value="testVerifyTextMember2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="VerifyInfoMember1.testVerifyInfoMember1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="WebdriverJenkinsGithub" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VerifyInfoMember1" />
+      <option name="METHOD_NAME" value="testVerifyInfoMember1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -983,17 +986,17 @@
       <item index="1" class="java.lang.String" itemvalue="JUnit.all tests in package" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.TeamMainPageTest.testJCBTeamMemberLink" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.TestLinks.testLinks" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestLinks" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.VerifyTextMember1.testVerifyTextMember1" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.VerifyTextMember2.testVerifyTextMember2" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.VerifyTextMember1.testVerifyTextMember1" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.VerifyTextMember2.testVerifyTextMember2" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.VerifyInfoMember1.testVerifyInfoMember1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.VerifyTextMember2.testVerifyTextMember2" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.VerifyTextMember1.testVerifyTextMember1" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestLinks.testLinks" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TeamMainPageTest.testJCBTeamMemberLink" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestLinks" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.VerifyInfoMember1.testVerifyInfoMember1" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.VerifyTextMember2.testVerifyTextMember2" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.VerifyTextMember1.testVerifyTextMember1" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestLinks.testLinks" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TeamMainPageTest.testJCBTeamMemberLink" />
       </list>
     </recent_temporary>
   </component>
@@ -1022,7 +1025,7 @@
       <workItem from="1461940390351" duration="309000" />
       <workItem from="1462368798284" duration="11069000" />
       <workItem from="1462803226735" duration="29000" />
-      <workItem from="1464191429139" duration="1902000" />
+      <workItem from="1464191429139" duration="3042000" />
     </task>
     <task id="LOCAL-00001" summary="modifiquei para queijo">
       <created>1460915813331</created>
@@ -1318,18 +1321,26 @@
       <option name="project" value="LOCAL" />
       <updated>1464175623289</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="change testLinks">
+      <created>1464193377067</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1464193377067</updated>
+    </task>
+    <task id="LOCAL-00044" summary="test verify text">
+      <created>1464193470292</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1464193470292</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ImdbTests - 2016.05.25 at 10h 54m 34s.xml">
-      <configuration name="ImdbTests" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TeamMainPageTest_testJCBTeamMemberLink - 2016.05.25 at 11h 09m 32s.xml">
       <configuration name="TeamMainPageTest.testJCBTeamMemberLink" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLinks - 2016.05.25 at 10h 55m 47s.xml">
-      <configuration name="TestLinks" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestLinks - 2016.05.25 at 10h 57m 07s.xml">
       <configuration name="TestLinks" configurationId="JUnit" />
@@ -1346,15 +1357,21 @@
     <history-entry file="TestLinks_testLinks - 2016.05.25 at 11h 11m 58s.xml">
       <configuration name="TestLinks.testLinks" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="VerifyInfoMember1_testVerifyInfoMember1 - 2016.05.25 at 11h 41m 18s.xml">
+      <configuration name="VerifyInfoMember1.testVerifyInfoMember1" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="VerifyTextMember1_testVerifyTextMember1 - 2016.05.25 at 11h 18m 21s.xml">
       <configuration name="VerifyTextMember1.testVerifyTextMember1" configurationId="JUnit" />
     </history-entry>
     <history-entry file="VerifyTextMember2_testVerifyTextMember2 - 2016.05.25 at 11h 21m 04s.xml">
       <configuration name="VerifyTextMember2.testVerifyTextMember2" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="VerifyTextMember2_testVerifyTextMember2 - 2016.05.25 at 11h 29m 32s.xml">
+      <configuration name="VerifyTextMember2.testVerifyTextMember2" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27753000" />
+    <option name="totallyTimeSpent" value="28893000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1371,14 +1388,14 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34542587" sideWeight="0.49635416" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34542587" sideWeight="0.49635416" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27014217" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39747635" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39747635" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1415,8 +1432,6 @@
     <ignored-roots>
       <path value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing" />
     </ignored-roots>
-    <MESSAGE value="logging off" />
-    <MESSAGE value="changed SEARCHTERM to &quot;Godfather&quot;" />
     <MESSAGE value="changed SEARCHTERM to &quot;Starwars&quot;" />
     <MESSAGE value="changed SEARCHTERM to &quot;Before Sunrise&quot;" />
     <MESSAGE value="testes com git" />
@@ -1440,7 +1455,9 @@
     <MESSAGE value="Añadir css - estilos" />
     <MESSAGE value="Añadir imagenes  - perfiles" />
     <MESSAGE value="Actualizacion web page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion web page" />
+    <MESSAGE value="change testLinks" />
+    <MESSAGE value="test verify text" />
+    <option name="LAST_COMMIT_MESSAGE" value="test verify text" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1453,13 +1470,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GoogleTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1724,14 +1734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ImbdTestsNew.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1758,12 +1760,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="23" column="38" selection-start-line="22" selection-start-column="6" selection-end-line="23" selection-end-column="38" />
+        <state relative-caret-position="302">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestLinks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -1771,20 +1780,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        <state relative-caret-position="-92">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestLinks.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="271">
+          <caret line="21" column="38" selection-start-line="20" selection-start-column="7" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
