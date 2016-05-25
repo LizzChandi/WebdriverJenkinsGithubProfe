@@ -30,8 +30,6 @@ public class TestLinks {
     public void testLinks() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
         driver.findElement(By.linkText("My CV")).click();
-
-
     }
 
     @After
