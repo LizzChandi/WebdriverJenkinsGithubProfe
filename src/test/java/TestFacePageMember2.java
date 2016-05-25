@@ -1,4 +1,3 @@
-
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.regex.Pattern;
@@ -11,7 +10,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 import org.openqa.selenium.support.ui.Select;
 
-public class TestLinkWP {
+import static org.junit.Assert.fail;
+
+public class TestFacePageMember2 {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -26,29 +27,16 @@ public class TestLinkWP {
     }
 
     @Test
-    public void testLinkWP() throws Exception {
+    public void testFacePageMember2() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
-        driver.findElement(By.linkText("Work Projects")).click();
+        assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
         try {
-            assertTrue(isElementPresent(By.cssSelector("ul.features > img")));
+            assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
-        try {
-            assertEquals("Electronic BillingWeb Application", driver.findElement(By.cssSelector("li")).getText());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
-        try {
-            assertEquals("Floricola System", driver.findElement(By.xpath("//li[2]")).getText());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
-        try {
-            assertEquals("Dashboard in the cloud", driver.findElement(By.xpath("//li[3]")).getText());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
+        driver.findElement(By.xpath("(//a[contains(text(),'Facebook')])[2]")).click();
+        assertEquals("Gaby RoldÃ¡n | Facebook", driver.getTitle());
     }
 
     @After
@@ -93,3 +81,4 @@ public class TestLinkWP {
         }
     }
 }
+
