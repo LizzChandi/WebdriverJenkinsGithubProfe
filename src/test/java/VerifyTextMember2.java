@@ -26,8 +26,8 @@ public class VerifyTextMember2 {
 
     @Test
     public void testVerifyTextMember2() throws Exception {
-        //driver.get(baseUrl + "/src/main/index.html");
-        driver.get(baseUrl);
+        driver.get(baseUrl + "/src/main/index.html");
+
         assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
         try {
             assertEquals("Team member N.2", driver.findElement(By.xpath("//div[2]/h2")).getText());

@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestLinks.java" afterPath="$PROJECT_DIR$/src/test/java/TestLinks.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java" afterPath="$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/VerifyTextMember1.java" afterPath="$PROJECT_DIR$/src/test/java/VerifyTextMember1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/VerifyTextMember2.java" afterPath="$PROJECT_DIR$/src/test/java/VerifyTextMember2.java" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
@@ -45,8 +48,8 @@
       <file leaf-file-name="TestLinks.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestLinks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+            <state relative-caret-position="152">
+              <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VerifyTextMember1.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="VerifyTextMember1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="21" column="38" selection-start-line="20" selection-start-column="7" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="152">
+              <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VerifyTextMember2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VerifyTextMember2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            <state relative-caret-position="102">
+              <caret line="22" column="64" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,8 +84,8 @@
       <file leaf-file-name="VerifyInfoMember1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+            <state relative-caret-position="135">
+              <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,10 +146,10 @@
         <option value="$PROJECT_DIR$/src/main/index.html" />
         <option value="$PROJECT_DIR$/src/test/java/TeamMainPageTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/verifyTextMember2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/VerifyTextMember1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/VerifyTextMember2.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestLinks.java" />
         <option value="$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java" />
-        <option value="$PROJECT_DIR$/src/test/java/VerifyTextMember2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/VerifyTextMember1.java" />
       </list>
     </option>
   </component>
@@ -954,7 +957,7 @@
       <workItem from="1461940390351" duration="309000" />
       <workItem from="1462368798284" duration="11069000" />
       <workItem from="1462803226735" duration="29000" />
-      <workItem from="1464191429139" duration="6140000" />
+      <workItem from="1464191429139" duration="6796000" />
     </task>
     <task id="LOCAL-00001" summary="modifiquei para queijo">
       <created>1460915813331</created>
@@ -1285,7 +1288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464197727650</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="new change baseURL">
+      <created>1464198338221</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1464198338221</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1321,7 +1331,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31991000" />
+    <option name="totallyTimeSpent" value="32647000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1382,7 +1392,6 @@
     <ignored-roots>
       <path value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing" />
     </ignored-roots>
-    <MESSAGE value="no htmlunitdriver logging" />
     <MESSAGE value="some failures" />
     <MESSAGE value="maven surefire plugin" />
     <MESSAGE value="maven surefire plugin 2" />
@@ -1407,7 +1416,8 @@
     <MESSAGE value="test verify text member1" />
     <MESSAGE value="delete invalid test" />
     <MESSAGE value="change baseURL" />
-    <option name="LAST_COMMIT_MESSAGE" value="change baseURL" />
+    <MESSAGE value="new change baseURL" />
+    <option name="LAST_COMMIT_MESSAGE" value="new change baseURL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1676,16 +1686,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestLinks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1726,10 +1726,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="22" column="64" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestLinks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+        <state relative-caret-position="135">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1738,18 +1758,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="21" column="38" selection-start-line="20" selection-start-column="7" selection-end-line="21" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        <state relative-caret-position="152">
+          <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
