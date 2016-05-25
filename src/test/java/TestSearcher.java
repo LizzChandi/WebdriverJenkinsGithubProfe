@@ -26,7 +26,7 @@ public class TestSearcher {
 
     @Test
     public void testSearcher() throws Exception {
-        driver.get(baseUrl + "/calidad/index.html");
+        driver.get(baseUrl + "/src/main/index.html");
         try {
             assertEquals("", driver.findElement(By.cssSelector("input.gsc-search-button.gsc-search-button-v2")).getText());
         } catch (Error e) {
