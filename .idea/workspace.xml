@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/AllMusicParameterizedTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/GoogleTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/ImbdTestsNew.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/ImdbParameterizedTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/ImdbTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/TeamMainPageTest.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/VerifyTextMember2.java" afterPath="$PROJECT_DIR$/src/test/java/VerifyTextMember2.java" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VerifyTextMember2.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="VerifyTextMember2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-92">
-              <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+            <state relative-caret-position="204">
+              <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VerifyInfoMember1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VerifyInfoMember1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="271">
@@ -149,9 +144,9 @@
         <option value="$PROJECT_DIR$/src/test/java/TeamMainPageTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/verifyTextMember2.java" />
         <option value="$PROJECT_DIR$/src/test/java/VerifyTextMember1.java" />
-        <option value="$PROJECT_DIR$/src/test/java/VerifyTextMember2.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestLinks.java" />
         <option value="$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/VerifyTextMember2.java" />
       </list>
     </option>
   </component>
@@ -269,6 +264,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="WebdriverJenkinsGithubProfe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebdriverJenkinsGithubProfe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebdriverJenkinsGithubProfe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -945,7 +954,7 @@
       <workItem from="1461940390351" duration="309000" />
       <workItem from="1462368798284" duration="11069000" />
       <workItem from="1462803226735" duration="29000" />
-      <workItem from="1464191429139" duration="3941000" />
+      <workItem from="1464191429139" duration="5539000" />
     </task>
     <task id="LOCAL-00001" summary="modifiquei para queijo">
       <created>1460915813331</created>
@@ -1262,7 +1271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464194511182</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="delete invalid test">
+      <created>1464195458267</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1464195458267</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1298,7 +1314,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29792000" />
+    <option name="totallyTimeSpent" value="31390000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1359,7 +1375,6 @@
     <ignored-roots>
       <path value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing" />
     </ignored-roots>
-    <MESSAGE value="changed SEARCHTERM to &quot;Before Sunrise&quot;" />
     <MESSAGE value="testes com git" />
     <MESSAGE value="no htmlunitdriver logging" />
     <MESSAGE value="some failures" />
@@ -1384,7 +1399,8 @@
     <MESSAGE value="change testLinks" />
     <MESSAGE value="test verify text" />
     <MESSAGE value="test verify text member1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test verify text member1" />
+    <MESSAGE value="delete invalid test" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete invalid test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1663,16 +1679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
@@ -1727,6 +1733,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
           <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

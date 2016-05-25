@@ -20,7 +20,7 @@ public class VerifyTextMember2 {
     public void setUp() throws Exception {
         Logger.getLogger("").setLevel(Level.SEVERE);
         driver = new HtmlUnitDriver();
-        baseUrl = "http://probando-workspacelizz096.rhcloud.com/";
+        baseUrl = String.valueOf(System.getProperty("baseURL"));
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
 
