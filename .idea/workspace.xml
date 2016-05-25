@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestLinks.java" afterPath="$PROJECT_DIR$/src/test/java/TestLinks.java" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1190,7 +1189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464216142323</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Correct repository, future tests positives">
+      <created>1464216807377</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1464216807377</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1285,7 +1291,6 @@
     <ignored-roots>
       <path value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing" />
     </ignored-roots>
-    <MESSAGE value="changed SEARCHTERM to &quot;Starwars&quot;" />
     <MESSAGE value="changed SEARCHTERM to &quot;Before Sunrise&quot;" />
     <MESSAGE value="testes com git" />
     <MESSAGE value="no htmlunitdriver logging" />
@@ -1310,7 +1315,8 @@
     <MESSAGE value="Actualizacion web page" />
     <MESSAGE value="Searcher change 2" />
     <MESSAGE value="Web page so perfect!&#10;Css, information update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Web page so perfect!&#10;Css, information update" />
+    <MESSAGE value="Correct repository, future tests positives" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correct repository, future tests positives" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
