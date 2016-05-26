@@ -34,7 +34,6 @@ public class TestSearchBot {
         baseUrl = String.valueOf(System.getProperty("baseURL"));
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
-
     @Test
     public void testSearchBot() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
