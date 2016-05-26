@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/TestFbMem1Private.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestFbMem1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
@@ -47,8 +47,8 @@
       <file leaf-file-name="TestFbMember1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMember1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="-1000">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestFbMember2.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestFbMember2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMember2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="45" />
+            <state relative-caret-position="-256">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,10 +80,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestFbMem1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestFbMem1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMem1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
+            <state relative-caret-position="32">
               <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -850,13 +850,6 @@
       <workItem from="1462368798284" duration="11069000" />
       <workItem from="1462803226735" duration="29000" />
     </task>
-    <task id="LOCAL-00041" summary="Actualizacion web page">
-      <created>1464174710232</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1464174710232</updated>
-    </task>
     <task id="LOCAL-00042" summary="Actualizacion web page">
       <created>1464175623289</created>
       <option name="number" value="00042" />
@@ -1193,7 +1186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464278194001</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="FacePage private, access DONE">
+      <created>1464278398326</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1464278398326</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1288,7 +1288,6 @@
     <ignored-roots>
       <path value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing" />
     </ignored-roots>
-    <MESSAGE value="Actualizacion web page" />
     <MESSAGE value="Searcher change 2" />
     <MESSAGE value="Web page so perfect!&#10;Css, information update" />
     <MESSAGE value="Correct repository, future tests positives" />
@@ -1313,7 +1312,8 @@
     <MESSAGE value="FacePage private member one, done" />
     <MESSAGE value="FacePage private member one, NO language DONE" />
     <MESSAGE value="FacePage private member1, language DONE" />
-    <option name="LAST_COMMIT_MESSAGE" value="FacePage private member1, language DONE" />
+    <MESSAGE value="FacePage private, access DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="FacePage private, access DONE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1542,16 +1542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMember1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestlinkWorkProj.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1590,10 +1580,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMember2.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMember1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="45" />
+        <state relative-caret-position="-1000">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMem1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1610,10 +1610,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMem1.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMember2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+        <state relative-caret-position="-256">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
