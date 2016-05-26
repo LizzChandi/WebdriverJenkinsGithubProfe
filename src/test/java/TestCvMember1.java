@@ -1,5 +1,4 @@
 
-
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.regex.Pattern;
@@ -45,9 +44,9 @@ public class TestCvMember1 {
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
-        driver.findElement(By.xpath("//a[contains(@href, 'https://ec.linkedin.com/in/lizeth-chandi-argoti-610941b6')]")).click();
+        driver.findElement(By.xpath("//div[2]/a")).click();
         try {
-            assertTrue(isElementPresent(By.xpath("//img[@alt='Lizeth Chandi Argoti']")));
+            assertTrue(isElementPresent(By.xpath("//img")));
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
