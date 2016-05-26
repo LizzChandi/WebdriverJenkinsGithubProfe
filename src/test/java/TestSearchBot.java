@@ -34,6 +34,7 @@ public class TestSearchBot {
         baseUrl = String.valueOf(System.getProperty("baseURL"));
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
+
     @Test
     public void testSearchBot() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
@@ -43,11 +44,9 @@ public class TestSearchBot {
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
-        try {
-            assertTrue(isElementPresent(By.cssSelector("input.gsc-search-button.gsc-search-button-v2")));
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
+        driver.findElement(By.id("gsc-i-id1")).clear();
+        driver.findElement(By.id("gsc-i-id1")).sendKeys("ISTQB");
+        driver.findElement(By.cssSelector("input.gsc-search-button.gsc-search-button-v2")).click();
     }
 
     @After

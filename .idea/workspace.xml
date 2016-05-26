@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="TestSearchBot">
+    <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestSearchBot.java" afterPath="$PROJECT_DIR$/src/test/java/TestSearchBot.java" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -128,7 +129,7 @@
       <file leaf-file-name="TestSearchBot.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestSearchBot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="406">
               <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -409,7 +410,7 @@
       <recent name="D:\WebdriverJenkinsGithub\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in WebdriverJenkinsGithub (2)">
+  <component name="RunManager" selected="JUnit.All in WebdriverJenkinsGithub (3)">
     <configuration default="false" name="TestCvMember1.testCvMember1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="WebdriverJenkinsGithub" />
@@ -419,27 +420,6 @@
       <option name="MAIN_CLASS_NAME" value="TestCvMember1" />
       <option name="METHOD_NAME" value="testCvMember1" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestCvMember1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="WebdriverJenkinsGithub" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestCvMember1" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -495,6 +475,27 @@
       <method />
     </configuration>
     <configuration default="false" name="All in WebdriverJenkinsGithub (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="WebdriverJenkinsGithub" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="All in WebdriverJenkinsGithub (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="WebdriverJenkinsGithub" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -789,18 +790,18 @@
       <item index="0" class="java.lang.String" itemvalue="Application.try" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.all tests in package" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.TestCvMember1.testCvMember1" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestCvMember1" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (1)" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (2)" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (1)" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (2)" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (3)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (2)" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (1)" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestCvMember1.testCvMember1" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestCvMember1" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (3)" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (2)" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestCvMember1.testCvMember1" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub" />
       </list>
     </recent_temporary>
   </component>
@@ -829,20 +830,6 @@
       <workItem from="1461940390351" duration="309000" />
       <workItem from="1462368798284" duration="11069000" />
       <workItem from="1462803226735" duration="29000" />
-    </task>
-    <task id="LOCAL-00017" summary="maven surefire plugin">
-      <created>1462373911864</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1462373911864</updated>
-    </task>
-    <task id="LOCAL-00018" summary="maven surefire plugin 2">
-      <created>1462373999484</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1462373999484</updated>
     </task>
     <task id="LOCAL-00019" summary="agora sem o surefire plugin">
       <created>1462374753381</created>
@@ -1173,7 +1160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1464265245431</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="TestSearchBot">
+      <created>1464265495270</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1464265495270</updated>
+    </task>
+    <task id="LOCAL-00067" summary="TestSearchBot">
+      <created>1464265559819</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1464265559819</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1189,6 +1190,9 @@
     <history-entry file="All_in_WebdriverJenkinsGithub_(2) - 2016.05.26 at 13h 24m 48s.xml">
       <configuration name="All in WebdriverJenkinsGithub (2)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_WebdriverJenkinsGithub_(3) - 2016.05.26 at 13h 31m 59s.xml">
+      <configuration name="All in WebdriverJenkinsGithub (3)" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="TestCvMember1 - 2016.05.26 at 12h 52m 51s.xml">
       <configuration name="TestCvMember1" configurationId="JUnit" />
     </history-entry>
@@ -1203,9 +1207,6 @@
     </history-entry>
     <history-entry file="TestCvMember1_testCvMember1 - 2016.05.26 at 12h 55m 31s.xml">
       <configuration name="TestCvMember1.testCvMember1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="all_tests_in_package - 2016.05.04 at 15h 57m 04s.xml">
-      <configuration name="all tests in package" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
@@ -1559,7 +1560,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestSearchBot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="406">
           <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
