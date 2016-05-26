@@ -8,7 +8,6 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 
 
-
 public class TestCvMember1 {
     private WebDriver driver;
     private String baseUrl;

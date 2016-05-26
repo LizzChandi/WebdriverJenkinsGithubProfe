@@ -7,7 +7,6 @@ import static org.junit.Assert.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 
-
 public class TestInstMem2 {
     private WebDriver driver;
     private String baseUrl;
