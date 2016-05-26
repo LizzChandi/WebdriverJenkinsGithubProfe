@@ -15,7 +15,7 @@ public class TestAllLinksMembers {
 
     @Before
     public void setUp() throws Exception {
-        Logger.getLogger("").setLevel(Level.SEVERE);
+        Logger.getLogger("").setLevel(Level.OFF);
         driver = new HtmlUnitDriver();
         baseUrl = String.valueOf(System.getProperty("baseURL"));
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
