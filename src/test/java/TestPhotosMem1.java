@@ -11,9 +11,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 import org.openqa.selenium.support.ui.Select;
 
-
-
-public class TestCvMember2 {
+public class TestPhotosMem1 {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -28,7 +26,7 @@ public class TestCvMember2 {
     }
 
     @Test
-    public void testCvMember2() throws Exception {
+    public void testPhotosMem1() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
         assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
         try {
@@ -36,7 +34,11 @@ public class TestCvMember2 {
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
-        driver.findElement(By.xpath("(//a[contains(text(),'My CV')])[2]")).click();
+        try {
+            assertTrue(isElementPresent(By.cssSelector("ul.features > img")));
+        } catch (Error e) {
+            verificationErrors.append(e.toString());
+        }
     }
 
     @After
