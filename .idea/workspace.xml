@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestCvMember1.java" afterPath="$PROJECT_DIR$/src/test/java/TestCvMember1.java" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,7 +92,7 @@
       <file leaf-file-name="TestElemWorkProj.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestElemWorkProj.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
+            <state relative-caret-position="185">
               <caret line="34" column="64" selection-start-line="32" selection-start-column="8" selection-end-line="34" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -105,8 +104,8 @@
       <file leaf-file-name="TestCvMember1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCvMember1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+            <state relative-caret-position="131">
+              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -387,48 +386,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.TestCvMember1.testCvMember1">
-    <configuration default="false" name="AllMusicParameterizedTest.movieTitles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="WebdriverJenkinsGithub" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AllMusicParameterizedTest" />
-      <option name="METHOD_NAME" value="movieTitles" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestFacePageMember2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="WebdriverJenkinsGithub" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestFacePageMember2" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="false" name="VerifyInfoMember1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="WebdriverJenkinsGithub" />
@@ -480,6 +437,48 @@
       <option name="MAIN_CLASS_NAME" value="TestCvMember1" />
       <option name="METHOD_NAME" value="testCvMember1" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestCvMember1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="WebdriverJenkinsGithub" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCvMember1" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="All in WebdriverJenkinsGithub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="WebdriverJenkinsGithub" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -765,19 +764,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.try" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.all tests in package" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.AllMusicParameterizedTest.movieTitles" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestFacePageMember2" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.VerifyInfoMember1" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.TestSearcher.testSearcher" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.TestCvMember1.testCvMember1" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.VerifyInfoMember1" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestSearcher.testSearcher" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestCvMember1.testCvMember1" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.TestCvMember1" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.TestCvMember1.testCvMember1" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestSearcher.testSearcher" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.VerifyInfoMember1" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestFacePageMember2" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.AllMusicParameterizedTest.movieTitles" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestCvMember1" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestSearcher.testSearcher" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.VerifyInfoMember1" />
       </list>
     </recent_temporary>
   </component>
@@ -806,13 +805,6 @@
       <workItem from="1461940390351" duration="309000" />
       <workItem from="1462368798284" duration="11069000" />
       <workItem from="1462803226735" duration="29000" />
-    </task>
-    <task id="LOCAL-00011" summary="changed SEARCHTERM to &quot;Godfather&quot;">
-      <created>1461679241880</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1461679241880</updated>
     </task>
     <task id="LOCAL-00012" summary="changed SEARCHTERM to &quot;Starwars&quot;">
       <created>1461844415602</created>
@@ -1150,27 +1142,34 @@
       <option name="project" value="LOCAL" />
       <updated>1464261978280</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="TestCvMember1">
+      <created>1464262844968</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1464262844968</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TeamMainPageTest_testJCBTeamMemberLink - 2016.05.25 at 12h 06m 54s.xml">
-      <configuration name="TeamMainPageTest.testJCBTeamMemberLink" configurationId="JUnit" />
+    <history-entry file="All_in_WebdriverJenkinsGithub - 2016.05.26 at 12h 53m 42s.xml">
+      <configuration name="All in WebdriverJenkinsGithub" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TeamMainPageTest_testRMTeamMemberLink - 2016.05.18 at 13h 06m 26s.xml">
-      <configuration name="TeamMainPageTest.testRMTeamMemberLink" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TeamMainPageTest_testRMTeamMemberLink - 2016.05.18 at 13h 07m 14s.xml">
-      <configuration name="TeamMainPageTest.testRMTeamMemberLink" configurationId="JUnit" />
+    <history-entry file="TestCvMember1 - 2016.05.26 at 12h 52m 51s.xml">
+      <configuration name="TestCvMember1" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestCvMember1_testCvMember1 - 2016.05.26 at 12h 30m 45s.xml">
       <configuration name="TestCvMember1.testCvMember1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFacePageMember2 - 2016.05.26 at 00h 09m 42s.xml">
-      <configuration name="TestFacePageMember2" configurationId="JUnit" />
+    <history-entry file="TestCvMember1_testCvMember1 - 2016.05.26 at 12h 54m 20s.xml">
+      <configuration name="TestCvMember1.testCvMember1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestLinks_testLinks - 2016.05.25 at 13h 09m 46s.xml">
-      <configuration name="TestLinks.testLinks" configurationId="JUnit" />
+    <history-entry file="TestCvMember1_testCvMember1 - 2016.05.26 at 12h 55m 11s.xml">
+      <configuration name="TestCvMember1.testCvMember1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCvMember1_testCvMember1 - 2016.05.26 at 12h 55m 31s.xml">
+      <configuration name="TestCvMember1.testCvMember1" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestSearcher_testSearcher - 2016.05.26 at 00h 13m 48s.xml">
       <configuration name="TestSearcher.testSearcher" configurationId="JUnit" />
@@ -1209,16 +1208,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26895735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11848341" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43127963" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26302084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2703125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3992891" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1522,7 +1521,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestElemWorkProj.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
+        <state relative-caret-position="185">
           <caret line="34" column="64" selection-start-line="32" selection-start-column="8" selection-end-line="34" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1532,8 +1531,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCvMember1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+        <state relative-caret-position="131">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
