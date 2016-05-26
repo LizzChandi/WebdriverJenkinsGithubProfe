@@ -29,9 +29,8 @@ public class TestCvMember1 {
 
     @Before
     public void setUp() throws Exception {
-        Logger.getLogger("").setLevel(Level.SEVERE);
-        driver = new HtmlUnitDriver();
-        baseUrl = String.valueOf(System.getProperty("baseURL"));
+        driver = new FirefoxDriver();
+        baseUrl = "http://staging-workspacelizz096.rhcloud.com/";
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
 
@@ -44,12 +43,7 @@ public class TestCvMember1 {
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
-        driver.findElement(By.xpath("//div[2]/a")).click();
-        try {
-            assertTrue(isElementPresent(By.xpath("//img")));
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
+        driver.findElement(By.linkText("My CV")).click();
     }
 
     @After
