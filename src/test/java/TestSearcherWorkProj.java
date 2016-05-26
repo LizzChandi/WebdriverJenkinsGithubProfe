@@ -21,7 +21,7 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.Select;
 
-public class TestStoreTextMember1 {
+public class TestSearcherWorkProj {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -35,7 +35,7 @@ public class TestStoreTextMember1 {
     }
 
     @Test
-    public void testStoreTextMember1() throws Exception {
+    public void testSearcherWorkProj() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
         assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
         try {
@@ -44,14 +44,7 @@ public class TestStoreTextMember1 {
             verificationErrors.append(e.toString());
         }
         try {
-            assertEquals("Lizz", driver.findElement(By.cssSelector("p.price > span")).getText());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
-        String v = driver.findElement(By.xpath("//p/span")).getText();
-        // Warning: verifyTextPresent may require manual changes
-        try {
-            assertTrue(driver.findElement(By.cssSelector("BODY")).getText().matches("^[\\s\\S]*\\$\\{v\\}[\\s\\S]*$"));
+            assertTrue(isElementPresent(By.id("gsc-iw-id1")));
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
@@ -99,4 +92,3 @@ public class TestStoreTextMember1 {
         }
     }
 }
-

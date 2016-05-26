@@ -21,7 +21,8 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.Select;
 
-public class TestStoreTextMember1 {
+
+public class TestSearcherGoog {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -35,7 +36,7 @@ public class TestStoreTextMember1 {
     }
 
     @Test
-    public void testStoreTextMember1() throws Exception {
+    public void testSearcherGoog() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
         assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
         try {
@@ -44,17 +45,17 @@ public class TestStoreTextMember1 {
             verificationErrors.append(e.toString());
         }
         try {
-            assertEquals("Lizz", driver.findElement(By.cssSelector("p.price > span")).getText());
+            assertEquals("Team Work SOFTWARE QUALITY MEI-CM\n \n Good team, good works. \n Lets go to see together: Work Projects\n Team member N.1 Lizz Chandi Argoti \n Suitable for teaching\n \n Ecuadorian IPL student: 2152219 23 years old Life Goals: Teacher, Psychologist, own business,travel around the world Read more about me\n My CV Facebook\n \n \n Team member N.2 Gaby RoldÃ¡n Molina \n Suitable for learning\n \n Ecuadorian IPL student: 2152216 25 years old Professional goal: Conduct courses on mobile applications Own business Read more about me\n My CV Facebook", driver.findElement(By.cssSelector("div.pricing-table.group")).getText());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
-        String v = driver.findElement(By.xpath("//p/span")).getText();
-        // Warning: verifyTextPresent may require manual changes
         try {
-            assertTrue(driver.findElement(By.cssSelector("BODY")).getText().matches("^[\\s\\S]*\\$\\{v\\}[\\s\\S]*$"));
+            assertTrue(isElementPresent(By.cssSelector("div.pricing-table.group")));
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
+        driver.findElement(By.id("gsc-i-id1")).clear();
+        driver.findElement(By.id("gsc-i-id1")).sendKeys("ISTQB");
     }
 
     @After
@@ -99,4 +100,3 @@ public class TestStoreTextMember1 {
         }
     }
 }
-
