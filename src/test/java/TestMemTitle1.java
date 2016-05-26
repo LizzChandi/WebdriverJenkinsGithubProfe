@@ -35,7 +35,7 @@ public class TestMemTitle1 {
             verificationErrors.append(e.toString());
         }
         try {
-            assertEquals("", driver.findElement(By.cssSelector("h2.title")).getText());
+            assertTrue(isElementPresent(By.cssSelector("h2.title")));
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
