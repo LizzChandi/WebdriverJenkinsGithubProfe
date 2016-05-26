@@ -1,15 +1,15 @@
-
+import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import java.util.concurrent.TimeUnit;
+
 import org.junit.*;
 import static org.junit.Assert.*;
 import org.openqa.selenium.*;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 
 
-
-public class TestCvMember1 {
+public class instAddMember1 {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -24,7 +24,7 @@ public class TestCvMember1 {
     }
 
     @Test
-    public void testCvMember1() throws Exception {
+    public void testInstAddMember1() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
         assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
         try {
@@ -32,7 +32,8 @@ public class TestCvMember1 {
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
-        driver.findElement(By.linkText("My CV")).click();
+        driver.findElement(By.linkText("Instagram")).click();
+        driver.findElement(By.xpath("//span[@id='react-root']/section/main/article/header/div[2]/div/span/button")).click();
     }
 
     @After
