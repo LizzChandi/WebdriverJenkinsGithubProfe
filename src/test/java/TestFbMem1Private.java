@@ -43,11 +43,7 @@ public class TestFbMem1Private {
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
-        try {
-            assertEquals("Este contenido no estÃ¡ disponible en este momento\n\nEste contenido no estÃ¡ disponible en este momento\n\n\nEs posible que el enlace que has seguido haya caducado o que la pÃ¡gina solo pueda verla un pÃºblico al que no perteneces.\nVolver a la pÃ¡gina anterior Â· Ir a la secciÃ³n de noticias Â· Visita nuestro servicio de ayuda", driver.findElement(By.id("content")).getText());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
+        driver.findElement(By.linkText("English (US)")).click();
     }
 
     @After

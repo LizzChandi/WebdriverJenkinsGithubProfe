@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestFbMem1Private.java" afterPath="$PROJECT_DIR$/src/test/java/TestFbMem1Private.java" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -82,7 +83,7 @@
       <file leaf-file-name="TestFbMem1Private.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMem1Private.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
+            <state relative-caret-position="400">
               <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -848,13 +849,6 @@
       <workItem from="1462368798284" duration="11069000" />
       <workItem from="1462803226735" duration="29000" />
     </task>
-    <task id="LOCAL-00038" summary="Añadir imagenes  - perfiles">
-      <created>1464128082610</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1464128082610</updated>
-    </task>
     <task id="LOCAL-00039" summary="Añadir imagenes  - perfiles">
       <created>1464136151584</created>
       <option name="number" value="00039" />
@@ -1191,7 +1185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464277707656</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="FacePage private member one, NO language DONE">
+      <created>1464277917574</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1464277917574</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1286,7 +1287,6 @@
     <ignored-roots>
       <path value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing" />
     </ignored-roots>
-    <MESSAGE value="Añadir css - estilos" />
     <MESSAGE value="Añadir imagenes  - perfiles" />
     <MESSAGE value="Actualizacion web page" />
     <MESSAGE value="Searcher change 2" />
@@ -1311,7 +1311,8 @@
     <MESSAGE value="Photo Correct&#10;Libraries corrects&#10;" />
     <MESSAGE value="Main Data Work Team correct" />
     <MESSAGE value="FacePage private member one, done" />
-    <option name="LAST_COMMIT_MESSAGE" value="FacePage private member one, done" />
+    <MESSAGE value="FacePage private member one, NO language DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="FacePage private member one, NO language DONE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1609,7 +1610,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMem1Private.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
+        <state relative-caret-position="400">
           <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
