@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestFbMem1Private.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
@@ -83,7 +82,7 @@
       <file leaf-file-name="TestFbMem1Private.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMem1Private.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
+            <state relative-caret-position="594">
               <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -849,13 +848,6 @@
       <workItem from="1462368798284" duration="11069000" />
       <workItem from="1462803226735" duration="29000" />
     </task>
-    <task id="LOCAL-00037" summary="Añadir css - estilos">
-      <created>1464127873947</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1464127873947</updated>
-    </task>
     <task id="LOCAL-00038" summary="Añadir imagenes  - perfiles">
       <created>1464128082610</created>
       <option name="number" value="00038" />
@@ -1192,7 +1184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464277530033</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="FacePage private member one, done">
+      <created>1464277707656</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1464277707656</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1287,7 +1286,6 @@
     <ignored-roots>
       <path value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing" />
     </ignored-roots>
-    <MESSAGE value="Cambios - Tests" />
     <MESSAGE value="Añadir css - estilos" />
     <MESSAGE value="Añadir imagenes  - perfiles" />
     <MESSAGE value="Actualizacion web page" />
@@ -1312,7 +1310,8 @@
     <MESSAGE value="Photo Member 1 correct" />
     <MESSAGE value="Photo Correct&#10;Libraries corrects&#10;" />
     <MESSAGE value="Main Data Work Team correct" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main Data Work Team correct" />
+    <MESSAGE value="FacePage private member one, done" />
+    <option name="LAST_COMMIT_MESSAGE" value="FacePage private member one, done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1610,7 +1609,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMem1Private.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
+        <state relative-caret-position="594">
           <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
