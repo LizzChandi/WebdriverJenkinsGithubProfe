@@ -28,7 +28,7 @@ public class TestSearchBot {
 
     @Before
     public void setUp() throws Exception {
-        Logger.getLogger("").setLevel(Level.OFF);
+        Logger.getLogger("").setLevel(Level.SEVERE);
         driver = new HtmlUnitDriver();
         baseUrl = String.valueOf(System.getProperty("baseURL"));
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
@@ -45,7 +45,6 @@ public class TestSearchBot {
         }
         driver.findElement(By.id("gsc-i-id1")).clear();
         driver.findElement(By.id("gsc-i-id1")).sendKeys("ISTQB");
-        driver.findElement(By.cssSelector("input.gsc-search-button.gsc-search-button-v2")).click();
     }
 
     @After
