@@ -20,8 +20,6 @@ import static org.hamcrest.CoreMatchers.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.Select;
-
-
 public class TestSearchBot {
     private WebDriver driver;
     private String baseUrl;
@@ -30,7 +28,7 @@ public class TestSearchBot {
 
     @Before
     public void setUp() throws Exception {
-        Logger.getLogger("").setLevel(Level.SEVERE);
+        Logger.getLogger("").setLevel(Level.OFF);
         driver = new HtmlUnitDriver();
         baseUrl = String.valueOf(System.getProperty("baseURL"));
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
