@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestCvMember1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestCvMember1.java" afterPath="$PROJECT_DIR$/src/test/java/TestCvMember1.java" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,8 +93,8 @@
       <file leaf-file-name="TestElemWorkProj.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestElemWorkProj.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="45" />
+            <state relative-caret-position="444">
+              <caret line="34" column="64" selection-start-line="32" selection-start-column="6" selection-end-line="34" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,8 +105,8 @@
       <file leaf-file-name="TestCvMember1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCvMember1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            <state relative-caret-position="519">
+              <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -807,13 +807,6 @@
       <workItem from="1462368798284" duration="11069000" />
       <workItem from="1462803226735" duration="29000" />
     </task>
-    <task id="LOCAL-00009" summary="logging off">
-      <created>1461369041308</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1461369041308</updated>
-    </task>
     <task id="LOCAL-00010" summary="logging off">
       <created>1461369243048</created>
       <option name="number" value="00010" />
@@ -1150,7 +1143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464260413090</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="TestCvMember1">
+      <created>1464261794054</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1464261794054</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1245,7 +1245,6 @@
     <ignored-roots>
       <path value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing" />
     </ignored-roots>
-    <MESSAGE value="maven surefire plugin" />
     <MESSAGE value="maven surefire plugin 2" />
     <MESSAGE value="agora sem o surefire plugin" />
     <MESSAGE value="nova classe de testes" />
@@ -1270,7 +1269,8 @@
     <MESSAGE value="BaseURL-Modified" />
     <MESSAGE value="Test Modifiedes" />
     <MESSAGE value="Test Work Proj" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Work Proj" />
+    <MESSAGE value="TestCvMember1" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestCvMember1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1522,8 +1522,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestElemWorkProj.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="45" />
+        <state relative-caret-position="444">
+          <caret line="34" column="64" selection-start-line="32" selection-start-column="6" selection-end-line="34" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1532,8 +1532,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCvMember1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        <state relative-caret-position="519">
+          <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
