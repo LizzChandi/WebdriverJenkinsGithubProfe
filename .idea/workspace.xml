@@ -32,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestMainDataWorkTeam.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestMainDataWorkTeam.java">
+      <file leaf-file-name="TestLinks.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestLinks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+            <state relative-caret-position="375">
+              <caret line="25" column="64" selection-start-line="23" selection-start-column="6" selection-end-line="25" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,8 +93,8 @@
       <file leaf-file-name="TestInstMem1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestInstMem1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+            <state relative-caret-position="575">
+              <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -449,49 +449,7 @@
       <recent name="D:\WebdriverJenkinsGithub\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in WebdriverJenkinsGithub (2)">
-    <configuration default="false" name="All in WebdriverJenkinsGithub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="WebdriverJenkinsGithub" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea baseURL=&quot;http://staging-workspacelizz096.rhcloud.com&quot;" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestSearchBot.testSearchBot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="WebdriverJenkinsGithub" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestSearchBot" />
-      <option name="METHOD_NAME" value="testSearchBot" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestInstMem1.testInstMem1">
     <configuration default="false" name="TestSearchBot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="WebdriverJenkinsGithub" />
@@ -543,6 +501,48 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestInstMem1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="WebdriverJenkinsGithub" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestInstMem1" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestInstMem1.testInstMem1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="WebdriverJenkinsGithub" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestInstMem1" />
+      <option name="METHOD_NAME" value="testInstMem1" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -828,19 +828,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.try" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.all tests in package" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestSearchBot.testSearchBot" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestSearchBot" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (1)" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (2)" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestSearchBot" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (1)" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (2)" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.TestInstMem1" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.TestInstMem1.testInstMem1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (2)" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (1)" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestSearchBot" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestSearchBot.testSearchBot" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestInstMem1.testInstMem1" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestInstMem1" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (2)" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.All in WebdriverJenkinsGithub (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestSearchBot" />
       </list>
     </recent_temporary>
   </component>
@@ -869,13 +869,6 @@
       <workItem from="1461940390351" duration="309000" />
       <workItem from="1462368798284" duration="11069000" />
       <workItem from="1462803226735" duration="29000" />
-    </task>
-    <task id="LOCAL-00046" summary="Web page so perfect!&#10;Css, information update">
-      <created>1464216142323</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1464216142323</updated>
     </task>
     <task id="LOCAL-00047" summary="Correct repository, future tests positives">
       <created>1464216807377</created>
@@ -1213,18 +1206,19 @@
       <option name="project" value="LOCAL" />
       <updated>1464285116796</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="URL CORRECT Test instagram team member 1">
+      <created>1464285828417</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1464285828417</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_WebdriverJenkinsGithub_(1) - 2016.05.26 at 13h 20m 28s.xml">
-      <configuration name="All in WebdriverJenkinsGithub (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_WebdriverJenkinsGithub_(1) - 2016.05.26 at 14h 03m 57s.xml">
       <configuration name="All in WebdriverJenkinsGithub (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_WebdriverJenkinsGithub_(2) - 2016.05.26 at 13h 24m 48s.xml">
-      <configuration name="All in WebdriverJenkinsGithub (2)" configurationId="JUnit" />
     </history-entry>
     <history-entry file="All_in_WebdriverJenkinsGithub_(2) - 2016.05.26 at 15h 58m 17s.xml">
       <configuration name="All in WebdriverJenkinsGithub (2)" configurationId="JUnit" />
@@ -1234,6 +1228,12 @@
     </history-entry>
     <history-entry file="All_in_WebdriverJenkinsGithub_(4) - 2016.05.26 at 13h 42m 23s.xml">
       <configuration name="All in WebdriverJenkinsGithub (4)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestInstMem1 - 2016.05.26 at 19h 06m 07s.xml">
+      <configuration name="TestInstMem1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestInstMem1_testInstMem1 - 2016.05.26 at 19h 06m 30s.xml">
+      <configuration name="TestInstMem1.testInstMem1" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestSearchBot - 2016.05.26 at 13h 51m 05s.xml">
       <configuration name="TestSearchBot" configurationId="JUnit" />
@@ -1266,7 +1266,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09952607" sideWeight="0.49635416" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09952607" sideWeight="0.49635416" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
@@ -1308,7 +1308,6 @@
     <ignored-roots>
       <path value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing" />
     </ignored-roots>
-    <MESSAGE value="BaseURL-Modified" />
     <MESSAGE value="Test Modifiedes" />
     <MESSAGE value="Test Work Proj" />
     <MESSAGE value="TestCvMember1" />
@@ -1333,7 +1332,8 @@
     <MESSAGE value="Actual libraries" />
     <MESSAGE value="Actual Page: Instagram" />
     <MESSAGE value="Test instagram team member 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test instagram team member 1" />
+    <MESSAGE value="URL CORRECT Test instagram team member 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="URL CORRECT Test instagram team member 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1528,16 +1528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestLinks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="25" column="64" selection-start-line="23" selection-start-column="6" selection-end-line="25" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestlinkWorkProj.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -1637,10 +1627,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestLinks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="64" selection-start-line="23" selection-start-column="6" selection-end-line="25" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestInstMem1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+        <state relative-caret-position="575">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
