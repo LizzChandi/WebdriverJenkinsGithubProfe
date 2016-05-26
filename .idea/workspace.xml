@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestCvMember2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestCvMember1.java" afterPath="$PROJECT_DIR$/src/test/java/TestCvMember1.java" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,11 +102,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestCvMember1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestCvMember1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCvMember1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+            <state relative-caret-position="181">
+              <caret line="33" column="64" selection-start-line="31" selection-start-column="7" selection-end-line="33" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestCvMember2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestCvMember2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -171,7 +183,6 @@
         <option value="$PROJECT_DIR$/src/test/java/TestFacePageMember2.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestLinks.java" />
         <option value="$PROJECT_DIR$/src/test/java/VerifyTextMember2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestCvMember2.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestFbMember1.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestFbMember2.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestSearchBot.java" />
@@ -182,6 +193,7 @@
         <option value="$PROJECT_DIR$/src/test/java/VerifyTextMember1.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestElemWorkProj.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestCvMember1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestCvMember2.java" />
       </list>
     </option>
   </component>
@@ -807,13 +819,6 @@
       <workItem from="1462368798284" duration="11069000" />
       <workItem from="1462803226735" duration="29000" />
     </task>
-    <task id="LOCAL-00014" summary="testes com git">
-      <created>1462369925318</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1462369925318</updated>
-    </task>
     <task id="LOCAL-00015" summary="no htmlunitdriver logging">
       <created>1462372031497</created>
       <option name="number" value="00015" />
@@ -1150,7 +1155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464264205678</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="TestCvMember1-pos">
+      <created>1464264250112</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1464264250112</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1424,14 +1436,6 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/TestSearcher.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/TestFacePageMember2.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestCvMember2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMember1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -1532,8 +1536,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCvMember1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+        <state relative-caret-position="181">
+          <caret line="33" column="64" selection-start-line="31" selection-start-column="7" selection-end-line="33" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestCvMember2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
