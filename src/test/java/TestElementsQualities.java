@@ -46,6 +46,7 @@ public class TestElementsQualities {
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
+
         try {
             assertTrue(isElementPresent(By.cssSelector("h2.title")));
         } catch (Error e) {
