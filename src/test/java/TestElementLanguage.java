@@ -44,7 +44,7 @@ public class TestElementLanguage {
 
 
         try {
-            assertTrue(isElementPresent(By.xpath("//div[3]/ul/img")));
+            assertTrue(isElementPresent(By.cssSelector("ul.features > img")));
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
