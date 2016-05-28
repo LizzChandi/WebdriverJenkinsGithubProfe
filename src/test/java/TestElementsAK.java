@@ -35,17 +35,6 @@ public class TestElementsAK {
             verificationErrors.append(e.toString());
         }
 
-        try {
-            assertEquals("Gaby", driver.findElement(By.xpath("sub")).getText());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
-        try {
-            assertEquals("Lizz", driver.findElement(By.cssSelector("sub")).getText());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
-
         assertTrue(isElementPresent(By.cssSelector("ul.features > img")));
     }
 

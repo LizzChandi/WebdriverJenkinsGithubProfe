@@ -41,11 +41,7 @@ public class TestElementsQualities {
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
-        try {
-            assertEquals("Perseverant", driver.findElement(By.xpath("//div[3]/ul/li[6]")).getText());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
+
 
         try {
             assertTrue(isElementPresent(By.cssSelector("h2.title")));
