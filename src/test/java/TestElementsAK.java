@@ -34,13 +34,9 @@ public class TestElementsAK {
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
+
         try {
-            assertEquals("Areas of knowledge", driver.findElement(By.xpath("//div[3]/h2")).getText());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
-        try {
-            assertEquals("Gaby", driver.findElement(By.xpath("//div[3]/div/p/sub")).getText());
+            assertEquals("Gaby", driver.findElement(By.xpath("sub")).getText());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
@@ -49,7 +45,7 @@ public class TestElementsAK {
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
-        assertTrue(isElementPresent(By.xpath("//div[3]/ul/img")));
+
         assertTrue(isElementPresent(By.cssSelector("ul.features > img")));
     }
 
