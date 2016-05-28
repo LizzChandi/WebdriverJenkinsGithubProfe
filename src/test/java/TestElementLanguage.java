@@ -41,11 +41,7 @@ public class TestElementLanguage {
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
-        try {
-            assertEquals("English", driver.findElement(By.xpath("//div[3]/ul/li")).getText());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
+
         try {
             assertEquals("Spanish", driver.findElement(By.xpath("//li[2]")).getText());
         } catch (Error e) {

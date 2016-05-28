@@ -29,9 +29,6 @@ public class TestLinkLanguage {
     public void testLinkLanguage() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
         driver.findElement(By.xpath("(//a[contains(text(),'Go')])[3]")).click();
-        driver.findElement(By.id("gsc-i-id1")).clear();
-        driver.findElement(By.id("gsc-i-id1")).sendKeys("langage");
-        driver.findElement(By.cssSelector("input.gsc-search-button.gsc-search-button-v2")).click();
         driver.findElement(By.linkText("Back")).click();
     }
 
