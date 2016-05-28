@@ -42,11 +42,7 @@ public class TestElementLanguage {
             verificationErrors.append(e.toString());
         }
 
-        try {
-            assertEquals("Spanish", driver.findElement(By.xpath("//li[2]")).getText());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
+
         try {
             assertTrue(isElementPresent(By.xpath("//div[3]/ul/img")));
         } catch (Error e) {
