@@ -30,9 +30,10 @@ public class TestElementsQualities {
     public void testElementsQualities() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
         driver.findElement(By.xpath("(//a[contains(text(),'Go')])[2]")).click();
-        assertTrue(isElementPresent(By.xpath("//div[3]/ul/img")));
+
         try {
             assertTrue(isElementPresent(By.cssSelector("ul.features > img")));
+
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
