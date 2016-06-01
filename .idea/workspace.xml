@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestLinkLanguage.java" afterPath="$PROJECT_DIR$/src/test/java/TestLinkLanguage.java" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -798,7 +797,7 @@
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea -DbaseURL=&quot;http://http://staging-workspacelizz096.rhcloud.com/src/main/index.html&quot;" />
+      <option name="VM_PARAMETERS" value="-ea -DbaseURL=&quot;http://staging-workspacelizz096.rhcloud.com/src/main/index.html&quot;" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
@@ -870,13 +869,6 @@
       <option name="presentableId" value="LOCAL-00062" />
       <option name="project" value="LOCAL" />
       <updated>1464389452079</updated>
-    </task>
-    <task id="LOCAL-00028" summary="reset">
-      <created>1463739504923</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1463739504923</updated>
     </task>
     <task id="LOCAL-00029" summary="reset">
       <created>1463741925439</created>
@@ -1200,7 +1192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464788546304</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="No way doubt">
+      <created>1464788689780</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1464788689780</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1249,14 +1248,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="1924" height="1030" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34495193" sideWeight="0.49635416" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.359375" sideWeight="0.5031546" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26923078" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39747635" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
@@ -1268,7 +1267,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.359375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.359375" sideWeight="0.49684542" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1297,7 +1296,6 @@
     <ignored-roots>
       <path value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing" />
     </ignored-roots>
-    <MESSAGE value="MemtitleElementPresent" />
     <MESSAGE value="MemtitleElementPresent2&#10;JUnit actual" />
     <MESSAGE value="Photos Members correct" />
     <MESSAGE value="Photo Member 1 correct" />
@@ -1322,7 +1320,8 @@
     <MESSAGE value="Something wrong - Commit done in PC, not in web page" />
     <MESSAGE value="No back, no test" />
     <MESSAGE value="Actualization libraries" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actualization libraries" />
+    <MESSAGE value="No way doubt" />
+    <option name="LAST_COMMIT_MESSAGE" value="No way doubt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
