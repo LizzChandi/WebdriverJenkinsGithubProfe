@@ -805,13 +805,6 @@
       <option name="project" value="LOCAL" />
       <updated>1464389452079</updated>
     </task>
-    <task id="LOCAL-00040" summary="Actualizacion web page">
-      <created>1464174696927</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1464174696927</updated>
-    </task>
     <task id="LOCAL-00041" summary="Actualizacion web page">
       <created>1464174710232</created>
       <option name="number" value="00041" />
@@ -1134,7 +1127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464791472504</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="done">
+      <created>1464791513073</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1464791513073</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TestHistory">
