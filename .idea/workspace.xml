@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="No back, no test">
+    <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestLinkLanguage.java" afterPath="$PROJECT_DIR$/src/test/java/TestLinkLanguage.java" />
     </list>
@@ -103,8 +103,8 @@
       <file leaf-file-name="TestLinkLanguage.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestLinkLanguage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -871,13 +871,6 @@
       <option name="project" value="LOCAL" />
       <updated>1464389452079</updated>
     </task>
-    <task id="LOCAL-00027" summary="jenkins 1st build attempt (2)">
-      <created>1463739272522</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1463739272522</updated>
-    </task>
     <task id="LOCAL-00028" summary="reset">
       <created>1463739504923</created>
       <option name="number" value="00028" />
@@ -1200,7 +1193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464305707943</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Actualization libraries">
+      <created>1464788546304</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1464788546304</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1297,32 +1297,6 @@
     <ignored-roots>
       <path value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing" />
     </ignored-roots>
-    <MESSAGE value="test verify text member1" />
-    <MESSAGE value="delete invalid test" />
-    <MESSAGE value="new change baseURL" />
-    <MESSAGE value="add searcher" />
-    <MESSAGE value="test searcher&#10;" />
-    <MESSAGE value="new page works project" />
-    <MESSAGE value="new page works projects" />
-    <MESSAGE value="new page work&#10;" />
-    <MESSAGE value="add css in work.html" />
-    <MESSAGE value="change baseURL" />
-    <MESSAGE value="test link work projects&#10;" />
-    <MESSAGE value="test linked member2&#10;" />
-    <MESSAGE value="new change baseURL all test&#10;" />
-    <MESSAGE value="add new link&#10;" />
-    <MESSAGE value="add new page areas" />
-    <MESSAGE value="add link &quot;back&quot;&#10;" />
-    <MESSAGE value="change info lizz" />
-    <MESSAGE value="add new page qualities and change index page&#10;" />
-    <MESSAGE value="change in qualities and add new images&#10;" />
-    <MESSAGE value="test links of page areas" />
-    <MESSAGE value="change in page areas" />
-    <MESSAGE value="new test elements page areas" />
-    <MESSAGE value="new test links page qualities&#10;" />
-    <MESSAGE value="change in features member 2&#10;" />
-    <MESSAGE value="new test elements of page qualities&#10;" />
-    <MESSAGE value="MemTitle good" />
     <MESSAGE value="MemtitleElementPresent" />
     <MESSAGE value="MemtitleElementPresent2&#10;JUnit actual" />
     <MESSAGE value="Photos Members correct" />
@@ -1347,7 +1321,8 @@
     <MESSAGE value="Libraries done" />
     <MESSAGE value="Something wrong - Commit done in PC, not in web page" />
     <MESSAGE value="No back, no test" />
-    <option name="LAST_COMMIT_MESSAGE" value="No back, no test" />
+    <MESSAGE value="Actualization libraries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualization libraries" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1606,8 +1581,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestLinkLanguage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
