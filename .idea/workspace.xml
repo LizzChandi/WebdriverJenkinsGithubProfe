@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
+    <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="new test elements of page qualities&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestElementsAK.java" afterPath="$PROJECT_DIR$/src/test/java/TestElementsAK.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestElementsQualities.java" afterPath="$PROJECT_DIR$/src/test/java/TestElementsQualities.java" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,67 +31,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="qualities.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/qualities.html">
+      <file leaf-file-name="TestElementLanguage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestElementLanguage.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-            <state relative-caret-position="69">
-              <caret line="75" column="82" selection-start-line="75" selection-start-column="82" selection-end-line="75" selection-end-column="82" />
-=======
-            <state relative-caret-position="75">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
->>>>>>> Stashed changes
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestElementsQualities.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestElementsQualities.java">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-            <state relative-caret-position="1251">
-              <caret line="75" column="2" selection-start-line="75" selection-start-column="2" selection-end-line="75" selection-end-column="2" />
+            <state relative-caret-position="612">
+              <caret line="46" column="78" selection-start-line="46" selection-start-column="78" selection-end-line="46" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-=======
-            <state relative-caret-position="50">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
->>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestElementsAK.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestElementsAK.java">
+      <file leaf-file-name="WebdriverJenkinsGithub.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebdriverJenkinsGithub.iml">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-            <state relative-caret-position="264">
-              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-=======
-            <state relative-caret-position="50">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="459">
+              <caret line="27" column="87" selection-start-line="27" selection-start-column="87" selection-end-line="27" selection-end-column="87" />
               <folding />
->>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestInstMem2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestInstMem2.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-            <state relative-caret-position="-102">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-=======
-            <state relative-caret-position="50">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
->>>>>>> Stashed changes
+            <state relative-caret-position="187">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -102,13 +66,18 @@
       <file leaf-file-name="TestFbMem1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMem1.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-            <state relative-caret-position="-119">
+            <state relative-caret-position="68">
               <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-=======
-            <state relative-caret-position="300">
-              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="20" selection-end-column="64" />
->>>>>>> Stashed changes
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestFbMember2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMember2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="34" column="79" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -117,52 +86,28 @@
       <file leaf-file-name="TestInstMem1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestInstMem1.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-            <state relative-caret-position="349">
+            <state relative-caret-position="323">
               <caret line="25" column="53" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-=======
-            <state relative-caret-position="50">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
->>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestLinkQualities.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestLinkQualities.java">
+      <file leaf-file-name="TestPhotosMem1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestPhotosMem1.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-            <state relative-caret-position="34">
-              <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-=======
-            <state relative-caret-position="50">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="459">
+              <caret line="33" column="78" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="78" />
               <folding />
->>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< Updated upstream
-      <file leaf-file-name="TestCvMember2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestCvMember2.java">
+      <file leaf-file-name="TestFbMember1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMember1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="31" column="53" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="53" />
-=======
-      <file leaf-file-name="VerifyTextMember1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
->>>>>>> Stashed changes
+            <state relative-caret-position="340">
+              <caret line="30" column="53" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -170,29 +115,23 @@
           </provider>
         </entry>
       </file>
-<<<<<<< Updated upstream
-      <file leaf-file-name="TestFbMember2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMember2.java">
+      <file leaf-file-name="TestElementsQualities.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestElementsQualities.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-119">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="68">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestLinkAK.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestLinkAK.java">
+      <file leaf-file-name="TestElementsAK.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestElementsAK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="18" column="64" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="64" />
-=======
-      <file leaf-file-name="VerifyTextMember2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="27" column="91" selection-start-line="27" selection-start-column="91" selection-end-line="27" selection-end-column="91" />
->>>>>>> Stashed changes
+            <state relative-caret-position="459">
+              <caret line="37" column="74" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -260,14 +199,17 @@
         <option value="$PROJECT_DIR$/src/test/java/TestViewLinkedMember2.java" />
         <option value="$PROJECT_DIR$/src/test/java/VerifyTextMember1.java" />
         <option value="$PROJECT_DIR$/src/main/works.html" />
-        <option value="$PROJECT_DIR$/src/main/index.html" />
         <option value="$PROJECT_DIR$/src/test/java/testLinkAK.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestLinkAK.java" />
         <option value="$PROJECT_DIR$/src/main/areas.html" />
         <option value="$PROJECT_DIR$/src/test/java/TestLinkQualities.java" />
         <option value="$PROJECT_DIR$/src/main/qualities.html" />
+        <option value="$PROJECT_DIR$/src/main/index.html" />
         <option value="$PROJECT_DIR$/src/test/java/TestElementsAK.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestElementsQualities.java" />
+        <option value="$PROJECT_DIR$/src/main/language.html" />
+        <option value="$PROJECT_DIR$/src/test/java/TestLinkLanguage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestElementLanguage.java" />
       </list>
     </option>
   </component>
@@ -298,17 +240,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-<<<<<<< Updated upstream
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
-=======
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1924" />
-    <option name="height" value="1042" />
->>>>>>> Stashed changes
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -394,6 +329,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -447,75 +383,9 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebdriverJenkinsGithubProfe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebdriverJenkinsGithubProfe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-<<<<<<< Updated upstream
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebdriverJenkinsGithub" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebdriverJenkinsGithub" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Production" />
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="WebdriverJenkinsGithub">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="WebdriverJenkinsGithub">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-=======
-      <pane id="Scratches" />
->>>>>>> Stashed changes
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -560,15 +430,11 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/WebdriverJenkinsGithub.iml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/css/style.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/index.html</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/works.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestLinks.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/VerifyTextMember1.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/VerifyTextMember2.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestCvMember1.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestElementsQualities.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -576,19 +442,7 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestCvMember1.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestCvMember2.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestElemWorkProj.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestFbMem1.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestFbMember1.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestFbMember2.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestInstMem1.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestInstMem2.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestMainDataWorkTeam.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestMemTitle1.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestMemTitle2.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestPhotosMem1.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestlinkWorkProj.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/extras.html</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -596,12 +450,7 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="true" />
           <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestLinkWP.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestSearcher.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestViewLinkedMember2.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestViewLinkedinMember1.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/test/java/TestMainDataWorkTeam.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Restored" />
@@ -1278,77 +1127,9 @@
       <workItem from="1462368798284" duration="11069000" />
       <workItem from="1462803226735" duration="29000" />
       <workItem from="1464191429139" duration="14411000" />
-      <workItem from="1464386259571" duration="8442000" />
-    </task>
-<<<<<<< Updated upstream
-    <task id="LOCAL-00025" summary="jenkins 1st build attempt (2)">
-      <created>1463617191203</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1463617191203</updated>
-    </task>
-    <task id="LOCAL-00026" summary="back to root">
-      <created>1463650070255</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-=======
-    <task id="LOCAL-00062" summary="TestCvMember1-pos">
-      <created>1464264205678</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
->>>>>>> Stashed changes
-      <option name="project" value="LOCAL" />
-      <updated>1463650070255</updated>
-    </task>
-    <task id="LOCAL-00027" summary="jenkins 1st build attempt (2)">
-      <created>1463739272522</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1463739272522</updated>
-    </task>
-    <task id="LOCAL-00028" summary="reset">
-      <created>1463739504923</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1463739504923</updated>
-    </task>
-    <task id="LOCAL-00029" summary="reset">
-      <created>1463741925439</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1463741925439</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Nombre actualizados">
-      <created>1463762068927</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1463762068927</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Con target&#10;">
-      <created>1463765906373</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1463765906373</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Con target&#10;">
-      <created>1463765968526</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1463765968526</updated>
-    </task>
-    <task id="LOCAL-00033" summary="New page DONE">
-      <created>1464050677538</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1464050677538</updated>
+      <workItem from="1464386259571" duration="14002000" />
+      <workItem from="1464662671300" duration="665000" />
+      <workItem from="1464719293211" duration="503000" />
     </task>
     <task id="LOCAL-00034" summary="New page DONE">
       <created>1464051501324</created>
@@ -1630,18 +1411,70 @@
       <option name="project" value="LOCAL" />
       <updated>1464396050899</updated>
     </task>
-<<<<<<< Updated upstream
-    <option name="localTasksCounter" value="74" />
-=======
-    <task id="LOCAL-00110" summary="No back, no test">
-      <created>1464305707943</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
+    <task id="LOCAL-00074" summary="new test elements of page qualities&#10;">
+      <created>1464396332841</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
       <option name="project" value="LOCAL" />
-      <updated>1464305707943</updated>
+      <updated>1464396332841</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
->>>>>>> Stashed changes
+    <task id="LOCAL-00075" summary="change  test elements of page qualities&#10;">
+      <created>1464396385319</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1464396385319</updated>
+    </task>
+    <task id="LOCAL-00076" summary="changes in test">
+      <created>1464397434154</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1464397434154</updated>
+    </task>
+    <task id="LOCAL-00077" summary="delete assertTrue">
+      <created>1464397639074</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1464397639074</updated>
+    </task>
+    <task id="LOCAL-00078" summary="new pag language&#10;new test link language&#10;">
+      <created>1464398392719</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1464398392720</updated>
+    </task>
+    <task id="LOCAL-00079" summary="change size img language&#10;&#10;new test elements page language">
+      <created>1464399467341</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1464399467342</updated>
+    </task>
+    <task id="LOCAL-00080" summary="change in tests&#10;">
+      <created>1464401178167</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1464401178167</updated>
+    </task>
+    <task id="LOCAL-00081" summary="chane test page qualities&#10;">
+      <created>1464404242374</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1464404242375</updated>
+    </task>
+    <task id="LOCAL-00082" summary="change test">
+      <created>1464404570493</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1464404570493</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1677,7 +1510,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48704000" />
+    <option name="totallyTimeSpent" value="55432000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1689,13 +1522,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-<<<<<<< Updated upstream
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-=======
-    <frame x="-11" y="-11" width="1924" height="1042" extended-state="0" />
     <editor active="false" />
->>>>>>> Stashed changes
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1704,17 +1532,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26971608" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26971608" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-<<<<<<< Updated upstream
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22327965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22327965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-=======
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26603577" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
->>>>>>> Stashed changes
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1747,15 +1571,6 @@
     <ignored-roots>
       <path value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing" />
     </ignored-roots>
-<<<<<<< Updated upstream
-    <MESSAGE value="test verify text member1" />
-    <MESSAGE value="delete invalid test" />
-    <MESSAGE value="new change baseURL" />
-    <MESSAGE value="add searcher" />
-    <MESSAGE value="test searcher&#10;" />
-    <MESSAGE value="new page works project" />
-    <MESSAGE value="new page works projects" />
-    <MESSAGE value="new page work&#10;" />
     <MESSAGE value="add css in work.html" />
     <MESSAGE value="change baseURL" />
     <MESSAGE value="test link work projects&#10;" />
@@ -1773,35 +1588,15 @@
     <MESSAGE value="new test links page qualities&#10;" />
     <MESSAGE value="change in features member 2&#10;" />
     <MESSAGE value="new test elements of page qualities&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="new test elements of page qualities&#10;" />
-=======
-    <MESSAGE value="MemTitle good" />
-    <MESSAGE value="MemtitleElementPresent" />
-    <MESSAGE value="MemtitleElementPresent2&#10;JUnit actual" />
-    <MESSAGE value="Photos Members correct" />
-    <MESSAGE value="Photo Member 1 correct" />
-    <MESSAGE value="Photo Correct&#10;Libraries corrects&#10;" />
-    <MESSAGE value="Main Data Work Team correct" />
-    <MESSAGE value="FacePage private member one, done" />
-    <MESSAGE value="FacePage private member one, NO language DONE" />
-    <MESSAGE value="FacePage private member1, language DONE" />
-    <MESSAGE value="FacePage private, access DONE" />
-    <MESSAGE value="FacePage access DONE" />
-    <MESSAGE value="Actual libraries" />
-    <MESSAGE value="Actual Page: Instagram" />
-    <MESSAGE value="Test instagram team member 1" />
-    <MESSAGE value="URL CORRECT Test instagram team member 1" />
-    <MESSAGE value="Libraries correct" />
-    <MESSAGE value="Testing inst mem 2" />
-    <MESSAGE value="inst add memeber 1 Done" />
-    <MESSAGE value="test fail plugin, clear" />
-    <MESSAGE value="Test Elements Instagram Member 1" />
-    <MESSAGE value="Cambio style css" />
-    <MESSAGE value="Libraries done" />
-    <MESSAGE value="Something wrong - Commit done in PC, not in web page" />
-    <MESSAGE value="No back, no test" />
-    <option name="LAST_COMMIT_MESSAGE" value="No back, no test" />
->>>>>>> Stashed changes
+    <MESSAGE value="change  test elements of page qualities&#10;" />
+    <MESSAGE value="changes in test" />
+    <MESSAGE value="delete assertTrue" />
+    <MESSAGE value="new pag language&#10;new test link language&#10;" />
+    <MESSAGE value="change size img language&#10;&#10;new test elements page language" />
+    <MESSAGE value="change in tests&#10;" />
+    <MESSAGE value="chane test page qualities&#10;" />
+    <MESSAGE value="change test" />
+    <option name="LAST_COMMIT_MESSAGE" value="change test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1814,35 +1609,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="375" column="44" selection-start-line="375" selection-start-column="44" selection-end-line="375" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1870,23 +1636,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebdriverJenkinsGithub.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" column="87" selection-start-line="29" selection-start-column="87" selection-end-line="29" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/test-classes/AllMusicParameterizedTest.class" />
     <entry file="file://$PROJECT_DIR$/target/test-classes/ImbdTestsNew.class" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GoogleTests.java" />
     <entry file="file://$PROJECT_DIR$/src/main/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -1900,91 +1651,15 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/TeamMainPageTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ImdbParameterizedTests.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ImdbTests.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="38" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="64" />
-          <folding>
-            <marker date="1464387003556" expanded="true" signature="8:240" placeholder="..." />
-            <marker date="1464387003556" expanded="true" signature="496:733" placeholder="{...}" />
-            <marker date="1464387003556" expanded="true" signature="802:1377" placeholder="{...}" />
-            <marker date="1464387003556" expanded="true" signature="1434:1640" placeholder="{...}" />
-            <marker date="1464387003556" expanded="true" signature="1686:1849" placeholder="{...}" />
-            <marker date="1464387003556" expanded="true" signature="1888:2055" placeholder="{...}" />
-            <marker date="1464387003556" expanded="true" signature="2102:2455" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestLinks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
-          <folding>
-            <marker date="1464387003530" expanded="true" signature="924:954" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestSearcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestLinkWP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestViewLinkedMember2.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-        <state relative-caret-position="952">
-          <caret line="68" column="14" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
-          <folding />
-=======
-        <state relative-caret-position="1250">
-          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
->>>>>>> Stashed changes
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestViewLinkedinMember1.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-        <state relative-caret-position="255">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestSearcher.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestLinkWP.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestViewLinkedMember2.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestViewLinkedinMember1.java" />
     <entry file="file://$PROJECT_DIR$/src/main/works.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="562">
           <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1993,235 +1668,203 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestlinkWorkProj.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-153">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-=======
-        <state relative-caret-position="2300">
-          <caret line="92" column="69" selection-start-line="92" selection-start-column="69" selection-end-line="92" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/instAddMember1.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestCvMember2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestInsElementMem1.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
->>>>>>> Stashed changes
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestPhotosMem1.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-        <state relative-caret-position="-85">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-=======
-        <state relative-caret-position="100">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
->>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestMemTitle2.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
         <state relative-caret-position="-602">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-=======
-        <state relative-caret-position="75">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
->>>>>>> Stashed changes
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestElemWorkProj.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-        <state relative-caret-position="238">
-          <caret line="24" column="64" selection-start-line="22" selection-start-column="8" selection-end-line="24" selection-end-column="64" />
-          <folding />
-=======
-        <state relative-caret-position="200">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
->>>>>>> Stashed changes
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/areas.html">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-        <state relative-caret-position="85">
-          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
-          <folding />
-=======
-        <state relative-caret-position="200">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
->>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/qualities.html">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
         <state relative-caret-position="69">
           <caret line="75" column="82" selection-start-line="75" selection-start-column="82" selection-end-line="75" selection-end-column="82" />
-=======
-        <state relative-caret-position="75">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
->>>>>>> Stashed changes
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCvMember2.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
         <state relative-caret-position="247">
           <caret line="31" column="53" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-=======
-        <state relative-caret-position="50">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
->>>>>>> Stashed changes
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMember2.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-        <state relative-caret-position="-119">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-=======
-        <state relative-caret-position="50">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
->>>>>>> Stashed changes
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestLinkAK.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-        <state relative-caret-position="146">
-          <caret line="18" column="64" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-=======
-        <state relative-caret-position="50">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
->>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestLinkQualities.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
         <state relative-caret-position="34">
           <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-=======
-        <state relative-caret-position="50">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
->>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestInstMem2.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
         <state relative-caret-position="-102">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/areas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/language.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="64" column="46" selection-start-line="64" selection-start-column="46" selection-end-line="64" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestLinkLanguage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestElemWorkProj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="24" column="64" selection-start-line="22" selection-start-column="8" selection-end-line="24" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestMemTitle1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestLinks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestLinkAK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="18" column="64" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="99" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="99" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMem1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
+        <state relative-caret-position="68">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-=======
-        <state relative-caret-position="50">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
->>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestElementsQualities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMember1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="30" column="53" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMember2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="79" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="79" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestInstMem1.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-        <state relative-caret-position="349">
+        <state relative-caret-position="323">
           <caret line="25" column="53" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="53" />
-=======
-        <state relative-caret-position="525">
-          <caret line="27" column="91" selection-start-line="27" selection-start-column="91" selection-end-line="27" selection-end-column="91" />
->>>>>>> Stashed changes
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestPhotosMem1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="33" column="78" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="78" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestElementsAK.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-        <state relative-caret-position="264">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="459">
+          <caret line="37" column="74" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestElementsQualities.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestElementLanguage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1251">
-          <caret line="75" column="2" selection-start-line="75" selection-start-column="2" selection-end-line="75" selection-end-column="2" />
-=======
-        <state relative-caret-position="300">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="20" selection-end-column="64" />
+        <state relative-caret-position="612">
+          <caret line="46" column="78" selection-start-line="46" selection-start-column="78" selection-end-line="46" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebdriverJenkinsGithub.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="87" selection-start-line="27" selection-start-column="87" selection-end-line="27" selection-end-column="87" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestAllLinksMembers.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
->>>>>>> Stashed changes
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
