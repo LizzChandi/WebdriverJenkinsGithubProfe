@@ -1,19 +1,13 @@
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import java.util.regex.Pattern;
 import java.util.concurrent.TimeUnit;
 import org.junit.*;
 import static org.junit.Assert.*;
-import static org.hamcrest.CoreMatchers.*;
 import org.openqa.selenium.*;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
-import org.openqa.selenium.support.ui.Select;
 
-
-
-public class TestCvMember2 {
+public class VerifyTextMember2 {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -28,15 +22,20 @@ public class TestCvMember2 {
     }
 
     @Test
-    public void testCvMember2() throws Exception {
+    public void testVerifyTextMember2() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
+
         assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
         try {
-            assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
+            assertEquals("Team member N.2", driver.findElement(By.xpath("//div[2]/h2")).getText());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
-        driver.findElement(By.xpath("(//a[contains(text(),'My CV')])[2]")).click();
+        try {
+            assertEquals("IPL student: 2152216", driver.findElement(By.xpath("//div[2]/ul/li[2]")).getText());
+        } catch (Error e) {
+            verificationErrors.append(e.toString());
+        }
     }
 
     @After

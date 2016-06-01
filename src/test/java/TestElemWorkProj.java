@@ -25,6 +25,7 @@ public class TestElemWorkProj {
         baseUrl = String.valueOf(System.getProperty("baseURL"));
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
+
     @Test
     public void testElemWorkProj() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
