@@ -30,6 +30,7 @@ public class TestElementLanguage {
     @Test
     public void testElementLanguage() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
+
         try {
             assertEquals("Languages: Go", driver.findElement(By.xpath("//p[6]")).getText());
         } catch (Error e) {

@@ -28,6 +28,7 @@ public class TestElementsAK {
     @Test
     public void testElementsAK() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
+
         driver.findElement(By.linkText("Go")).click();
         try {
             assertEquals("Areas of knowledge", driver.getTitle());

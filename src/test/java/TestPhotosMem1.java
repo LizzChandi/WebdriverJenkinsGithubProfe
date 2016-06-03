@@ -24,12 +24,9 @@ public class TestPhotosMem1 {
     @Test
     public void testPhotosMem1() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
+
         assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
-        try {
-            assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
+
         try {
             assertTrue(isElementPresent(By.cssSelector("ul.features > img")));
         } catch (Error e) {

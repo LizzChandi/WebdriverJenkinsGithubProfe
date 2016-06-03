@@ -25,6 +25,7 @@ public class TestElementsQualities {
     @Test
     public void testElementsQualities() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
+
         driver.findElement(By.xpath("(//a[contains(text(),'Go')])[2]")).click();
 
         try {

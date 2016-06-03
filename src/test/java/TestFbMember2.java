@@ -24,6 +24,7 @@ public class TestFbMember2 {
     @Test
     public void testFbMember2() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
+
         assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
         try {
             assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());

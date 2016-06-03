@@ -25,6 +25,7 @@ public class TestlinkWorkProj {
     @Test
     public void testLinkWorkProj() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
+
         assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
         try {
             assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
@@ -33,11 +34,7 @@ public class TestlinkWorkProj {
         }
         driver.findElement(By.linkText("Work Projects")).click();
         assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
-        try {
-            assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
+
     }
 
     @After

@@ -27,6 +27,7 @@ public class VerifyTextMember1 {
     @Test
     public void testVerifyTextMember1() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
+        //driver.get(baseUrl+ "/index.html");
         try {
             assertEquals("Team member N.1", driver.findElement(By.cssSelector("h2.title")).getText());
         } catch (Error e) {

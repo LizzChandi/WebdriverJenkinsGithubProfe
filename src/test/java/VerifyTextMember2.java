@@ -18,21 +18,21 @@ public class VerifyTextMember2 {
         Logger.getLogger("").setLevel(Level.SEVERE);
         driver = new HtmlUnitDriver();
         baseUrl = String.valueOf(System.getProperty("baseURL"));
+
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
 
     @Test
     public void testVerifyTextMember2() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
-
         assertEquals("QUALIDADE DE SOFTWARE + SOFTWARE QUALITY MEI-CM", driver.getTitle());
         try {
-            assertEquals("Team member N.2", driver.findElement(By.xpath("//div[2]/h2")).getText());
+            assertEquals("Team member N.2", driver.findElement(By.xpath("//div[3]/h2")).getText());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
         try {
-            assertEquals("IPL student: 2152216", driver.findElement(By.xpath("//div[2]/ul/li[2]")).getText());
+            assertEquals("IPL student: 2152216", driver.findElement(By.xpath("//div[3]/ul/li[2]")).getText());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
