@@ -6,7 +6,8 @@ import org.junit.*;
 import static org.junit.Assert.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
-public class VerifyTextLanguages {
+
+public class TestVerifyClock {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -21,55 +22,31 @@ public class VerifyTextLanguages {
     }
 
     @Test
-    public void testVerifyTextLanguages() throws Exception {
+    public void testVerifyClock() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
-
-        driver.findElement(By.xpath("(//a[contains(text(),'Go')])[3]")).click();
+        //driver.get(baseUrl+ "/index.html");
         try {
-            assertEquals("Language", driver.getTitle());
+            assertEquals("Current time", driver.findElement(By.cssSelector("span")).getText());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
         try {
-            assertEquals("Languages", driver.findElement(By.cssSelector("h2.title")).getText());
+            assertTrue(isElementPresent(By.cssSelector("span.second")));
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
+        driver.findElement(By.cssSelector("a")).click();
         try {
-            assertEquals("Languages", driver.findElement(By.xpath("//div[3]/h2")).getText());
+            assertEquals("Leiria", driver.findElement(By.cssSelector("h1")).getText());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
-        try {
-            assertEquals("English", driver.findElement(By.cssSelector("li")).getText());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
-        try {
-            assertEquals("English", driver.findElement(By.xpath("//div[3]/ul/li")).getText());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
-        try {
-            assertEquals("Spanish", driver.findElement(By.xpath("//li[2]")).getText());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
-        try {
-            assertEquals("Spanish", driver.findElement(By.xpath("//div[3]/ul/li[2]")).getText());
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
-        driver.findElement(By.cssSelector("img[alt=\"Home\"]")).click();
     }
 
     @After
     public void tearDown() throws Exception {
         driver.quit();
-        String verificationErrorString = verificationErrors.toString();
-        if (!"".equals(verificationErrorString)) {
-            fail(verificationErrorString);
-        }
+
     }
 
     private boolean isElementPresent(By by) {
