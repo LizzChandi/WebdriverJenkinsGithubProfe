@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 
-public class TestVerifyClock {
+public class TestVerifyFooter {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -22,22 +22,16 @@ public class TestVerifyClock {
     }
 
     @Test
-    public void testVerifyClock() throws Exception {
-        driver.get(baseUrl + "/src/main/index.html");
-
+    public void testVerifyFooter() throws Exception {
+       // driver.get(baseUrl + "/src/main/index.html");
+        driver.get(baseUrl+ "/index.html");
         try {
-            assertEquals("Current time", driver.findElement(By.cssSelector("span")).getText());
+            assertEquals("Realized by Lizz and Gaby | IPL", driver.findElement(By.cssSelector("footer > div > p")).getText());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
         try {
-            assertTrue(isElementPresent(By.cssSelector("span.second")));
-        } catch (Error e) {
-            verificationErrors.append(e.toString());
-        }
-        driver.findElement(By.cssSelector("a")).click();
-        try {
-            assertEquals("Leiria", driver.findElement(By.cssSelector("h1")).getText());
+            assertTrue(isElementPresent(By.cssSelector("footer")));
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
@@ -46,7 +40,10 @@ public class TestVerifyClock {
     @After
     public void tearDown() throws Exception {
         driver.quit();
-
+        String verificationErrorString = verificationErrors.toString();
+        if (!"".equals(verificationErrorString)) {
+            fail(verificationErrorString);
+        }
     }
 
     private boolean isElementPresent(By by) {
