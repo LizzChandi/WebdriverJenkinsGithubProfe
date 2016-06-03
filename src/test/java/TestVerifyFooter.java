@@ -23,8 +23,8 @@ public class TestVerifyFooter {
 
     @Test
     public void testVerifyFooter() throws Exception {
-       // driver.get(baseUrl + "/src/main/index.html");
-        driver.get(baseUrl+ "/index.html");
+       driver.get(baseUrl + "/src/main/index.html");
+
         try {
             assertEquals("Realized by Lizz and Gaby | IPL", driver.findElement(By.cssSelector("footer > div > p")).getText());
         } catch (Error e) {
