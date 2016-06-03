@@ -1,52 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="func">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/TestSearcher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/TestViewLinkedinMember1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/VerifyInfoMember1.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestElemWorkProj.class" afterPath="$PROJECT_DIR$/target/test-classes/TestElemWorkProj.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestFbMem1.class" afterPath="$PROJECT_DIR$/target/test-classes/TestFbMem1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestFbMember1.class" afterPath="$PROJECT_DIR$/target/test-classes/TestFbMember1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestFbMember2.class" afterPath="$PROJECT_DIR$/target/test-classes/TestFbMember2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestInstMem1.class" afterPath="$PROJECT_DIR$/target/test-classes/TestInstMem1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestInstMem2.class" afterPath="$PROJECT_DIR$/target/test-classes/TestInstMem2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestLinkAK.class" afterPath="$PROJECT_DIR$/target/test-classes/TestLinkAK.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestLinkLanguage.class" afterPath="$PROJECT_DIR$/target/test-classes/TestLinkLanguage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestLinkQualities.class" afterPath="$PROJECT_DIR$/target/test-classes/TestLinkQualities.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestLinks.class" afterPath="$PROJECT_DIR$/target/test-classes/TestLinks.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestMemTitle1.class" afterPath="$PROJECT_DIR$/target/test-classes/TestMemTitle1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestMemTitle2.class" afterPath="$PROJECT_DIR$/target/test-classes/TestMemTitle2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestPhotosMem1.class" afterPath="$PROJECT_DIR$/target/test-classes/TestPhotosMem1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestlinkWorkProj.class" afterPath="$PROJECT_DIR$/target/test-classes/TestlinkWorkProj.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/VerifyTextMember1.class" afterPath="$PROJECT_DIR$/target/test-classes/VerifyTextMember1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/VerifyTextMember2.class" afterPath="$PROJECT_DIR$/target/test-classes/VerifyTextMember2.class" />
+    <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/gabyQ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/lizzQ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/VerifyQualitiesMember1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/VerifyTextIndex.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestCvMember2.class" afterPath="$PROJECT_DIR$/target/test-classes/TestCvMember2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestElementLanguage.class" afterPath="$PROJECT_DIR$/target/test-classes/TestElementLanguage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestElementsAK.class" afterPath="$PROJECT_DIR$/target/test-classes/TestElementsAK.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestElementsQualities.class" afterPath="$PROJECT_DIR$/target/test-classes/TestElementsQualities.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/areas.html" afterPath="$PROJECT_DIR$/src/main/areas.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/index.html" afterPath="$PROJECT_DIR$/src/main/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/language.html" afterPath="$PROJECT_DIR$/src/main/language.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/qualities.html" afterPath="$PROJECT_DIR$/src/main/qualities.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/works.html" afterPath="$PROJECT_DIR$/src/main/works.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestCvMember2.java" afterPath="$PROJECT_DIR$/src/test/java/TestCvMember2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestElemWorkProj.java" afterPath="$PROJECT_DIR$/src/test/java/TestElemWorkProj.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestElementLanguage.java" afterPath="$PROJECT_DIR$/src/test/java/TestElementLanguage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestElementsAK.java" afterPath="$PROJECT_DIR$/src/test/java/TestElementsAK.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestElementsQualities.java" afterPath="$PROJECT_DIR$/src/test/java/TestElementsQualities.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestFbMem1.java" afterPath="$PROJECT_DIR$/src/test/java/TestFbMem1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestFbMember1.java" afterPath="$PROJECT_DIR$/src/test/java/TestFbMember1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestFbMember2.java" afterPath="$PROJECT_DIR$/src/test/java/TestFbMember2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestInstMem1.java" afterPath="$PROJECT_DIR$/src/test/java/TestInstMem1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestInstMem2.java" afterPath="$PROJECT_DIR$/src/test/java/TestInstMem2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestLinkAK.java" afterPath="$PROJECT_DIR$/src/test/java/TestLinkAK.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestLinkLanguage.java" afterPath="$PROJECT_DIR$/src/test/java/TestLinkLanguage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestLinkQualities.java" afterPath="$PROJECT_DIR$/src/test/java/TestLinkQualities.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestLinks.java" afterPath="$PROJECT_DIR$/src/test/java/TestLinks.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestMemTitle1.java" afterPath="$PROJECT_DIR$/src/test/java/TestMemTitle1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestMemTitle2.java" afterPath="$PROJECT_DIR$/src/test/java/TestMemTitle2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestPhotosMem1.java" afterPath="$PROJECT_DIR$/src/test/java/TestPhotosMem1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestlinkWorkProj.java" afterPath="$PROJECT_DIR$/src/test/java/TestlinkWorkProj.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/VerifyTextMember1.java" afterPath="$PROJECT_DIR$/src/test/java/VerifyTextMember1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/VerifyTextMember2.java" afterPath="$PROJECT_DIR$/src/test/java/VerifyTextMember2.java" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,58 +41,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestInstMem2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestInstMem2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestFbMember2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMember2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestFbMem1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMem1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestElemWorkProj.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestElemWorkProj.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestElementsQualities.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestElementsQualities.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TestElementsAK.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestElementsAK.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -147,21 +61,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestCvMember2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestCvMember2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCvMember2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestFbMember1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestFbMember1.java">
+      <file leaf-file-name="VerifyTextMember2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="20" column="0" selection-start-line="18" selection-start-column="7" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerifyTextMember1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="22" column="64" selection-start-line="21" selection-start-column="7" selection-end-line="22" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerifyTextIndex.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextIndex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -169,12 +103,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestInstMem1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestInstMem1.java">
+      <file leaf-file-name="lizzQ.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/lizzQ.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qualities.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/qualities.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="116">
+              <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerifyQualitiesMember1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/VerifyQualitiesMember1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestPhotosMem1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestPhotosMem1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -205,9 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing/WebdriverJenkinsGithub/src/test/java/ImdbParameterizedTests.java" />
-        <option value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing/WebdriverJenkinsGithub/src/test/java/AllMusicParameterizedTest.java" />
-        <option value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing/WebdriverJenkinsGithub/src/test/java/GoogleTests.java" />
         <option value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing/WebdriverJenkinsGithub/src/test/java/ImbdTestsNew.java" />
         <option value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing/WebdriverJenkinsGithub/src/test/java/ImdbTests.java" />
         <option value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing/WebdriverJenkinsGithub/pom.xml" />
@@ -234,7 +198,6 @@
         <option value="$PROJECT_DIR$/src/main/index.html" />
         <option value="$PROJECT_DIR$/src/main/areas.html" />
         <option value="$PROJECT_DIR$/src/main/language.html" />
-        <option value="$PROJECT_DIR$/src/main/qualities.html" />
         <option value="$PROJECT_DIR$/src/main/works.html" />
         <option value="$PROJECT_DIR$/src/test/java/VerifyTextMember2.java" />
         <option value="$PROJECT_DIR$/src/test/java/VerifyTextMember1.java" />
@@ -256,6 +219,10 @@
         <option value="$PROJECT_DIR$/src/test/java/TestElementsAK.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestElementLanguage.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestCvMember2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/VerifyTextInfex.java" />
+        <option value="$PROJECT_DIR$/src/main/qualities.html" />
+        <option value="$PROJECT_DIR$/src/test/java/VerifyTextIndex.java" />
+        <option value="$PROJECT_DIR$/src/test/java/VerifyQualitiesMember1.java" />
       </list>
     </option>
   </component>
@@ -488,6 +455,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -522,12 +493,6 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\WebdriverJenkinsGithub\src\main" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\usuario\IdeaProjects\WebdriverJenkinsGithubProfe\src\main" />
       <recent name="$PROJECT_DIR$/src/main" />
@@ -535,50 +500,15 @@
       <recent name="D:" />
       <recent name="D:/.." />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\usuario\IdeaProjects\WebdriverJenkinsGithubProfe\src\main" />
+      <recent name="D:\WebdriverJenkinsGithub\src\main" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestCvMember2.testCvMember2">
-    <configuration default="false" name="TestElemWorkProj.testElemWorkProj" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="WebdriverJenkinsGithub" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestElemWorkProj" />
-      <option name="METHOD_NAME" value="testElemWorkProj" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea -DbaseURL=&quot;http://localhost:8080/calidad&quot;" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestElementsQualities.testElementsQualities" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="WebdriverJenkinsGithub" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestElementsQualities" />
-      <option name="METHOD_NAME" value="testElementsQualities" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea -DbaseURL=&quot;http://localhost:8080/calidad&quot;" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.VerifyQualitiesMember1.testVerifyQualitiesMember1">
     <configuration default="false" name="TestElementsAK.testElementsAK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="WebdriverJenkinsGithub" />
@@ -629,6 +559,48 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestCvMember2" />
       <option name="METHOD_NAME" value="testCvMember2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -DbaseURL=&quot;http://localhost:8080/calidad&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="VerifyTextIndex.testVerifyTextIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="WebdriverJenkinsGithub" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VerifyTextIndex" />
+      <option name="METHOD_NAME" value="testVerifyTextIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -DbaseURL=&quot;http://localhost:8080/calidad&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="VerifyQualitiesMember1.testVerifyQualitiesMember1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="WebdriverJenkinsGithub" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VerifyQualitiesMember1" />
+      <option name="METHOD_NAME" value="testVerifyQualitiesMember1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea -DbaseURL=&quot;http://localhost:8080/calidad&quot;" />
       <option name="PARAMETERS" value="" />
@@ -1089,19 +1061,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.try" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.all tests in package" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestElemWorkProj.testElemWorkProj" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestElementsQualities.testElementsQualities" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestElementsAK.testElementsAK" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.TestElementLanguage.testElementLanguage" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.TestCvMember2.testCvMember2" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestElementsAK.testElementsAK" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestElementLanguage.testElementLanguage" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestCvMember2.testCvMember2" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.VerifyTextIndex.testVerifyTextIndex" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.VerifyQualitiesMember1.testVerifyQualitiesMember1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestCvMember2.testCvMember2" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestElementLanguage.testElementLanguage" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestElementsAK.testElementsAK" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestElementsQualities.testElementsQualities" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestElemWorkProj.testElemWorkProj" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.VerifyQualitiesMember1.testVerifyQualitiesMember1" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.VerifyTextIndex.testVerifyTextIndex" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestCvMember2.testCvMember2" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestElementLanguage.testElementLanguage" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestElementsAK.testElementsAK" />
       </list>
     </recent_temporary>
   </component>
@@ -1134,14 +1106,7 @@
       <workItem from="1464386259571" duration="14002000" />
       <workItem from="1464662671300" duration="665000" />
       <workItem from="1464719293211" duration="503000" />
-      <workItem from="1464963979596" duration="1029000" />
-    </task>
-    <task id="LOCAL-00037" summary="Añadir css - estilos">
-      <created>1464127873947</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1464127873947</updated>
+      <workItem from="1464963979596" duration="2856000" />
     </task>
     <task id="LOCAL-00038" summary="Añadir imagenes  - perfiles">
       <created>1464128082610</created>
@@ -1479,7 +1444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464793262749</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="new changes in test and pages">
+      <created>1464965113242</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1464965113247</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1492,30 +1464,30 @@
     <history-entry file="TestCvMember2_testCvMember2 - 2016.06.03 at 09h 43m 00s.xml">
       <configuration name="TestCvMember2.testCvMember2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestElemWorkProj_testElemWorkProj - 2016.06.03 at 09h 34m 55s.xml">
-      <configuration name="TestElemWorkProj.testElemWorkProj" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestElementLanguage_testElementLanguage - 2016.06.03 at 09h 37m 43s.xml">
       <configuration name="TestElementLanguage.testElementLanguage" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestElementLanguage_testElementLanguage - 2016.06.03 at 09h 38m 13s.xml">
       <configuration name="TestElementLanguage.testElementLanguage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestElementsAK_testElementsAK - 2016.06.03 at 09h 36m 42s.xml">
-      <configuration name="TestElementsAK.testElementsAK" configurationId="JUnit" />
+    <history-entry file="VerifyQualitiesMember1_testVerifyQualitiesMember1 - 2016.06.03 at 10h 21m 07s.xml">
+      <configuration name="VerifyQualitiesMember1.testVerifyQualitiesMember1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestElementsAK_testElementsAK - 2016.06.03 at 09h 37m 10s.xml">
-      <configuration name="TestElementsAK.testElementsAK" configurationId="JUnit" />
+    <history-entry file="VerifyQualitiesMember1_testVerifyQualitiesMember1 - 2016.06.03 at 10h 21m 38s.xml">
+      <configuration name="VerifyQualitiesMember1.testVerifyQualitiesMember1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestElementsQualities_testElementsQualities - 2016.06.03 at 09h 35m 39s.xml">
-      <configuration name="TestElementsQualities.testElementsQualities" configurationId="JUnit" />
+    <history-entry file="VerifyTextIndex_testVerifyTextIndex - 2016.06.03 at 10h 07m 29s.xml">
+      <configuration name="VerifyTextIndex.testVerifyTextIndex" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestElementsQualities_testElementsQualities - 2016.06.03 at 09h 36m 14s.xml">
-      <configuration name="TestElementsQualities.testElementsQualities" configurationId="JUnit" />
+    <history-entry file="VerifyTextIndex_testVerifyTextIndex - 2016.06.03 at 10h 08m 11s.xml">
+      <configuration name="VerifyTextIndex.testVerifyTextIndex" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyTextIndex_testVerifyTextIndex - 2016.06.03 at 10h 09m 41s.xml">
+      <configuration name="VerifyTextIndex.testVerifyTextIndex" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68073000" />
+    <option name="totallyTimeSpent" value="69900000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1528,7 +1500,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1543,7 +1515,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22254759" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22254759" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1576,7 +1548,6 @@
     <ignored-roots>
       <path value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing" />
     </ignored-roots>
-    <MESSAGE value="change baseURL" />
     <MESSAGE value="test link work projects&#10;" />
     <MESSAGE value="test linked member2&#10;" />
     <MESSAGE value="new change baseURL all test&#10;" />
@@ -1601,7 +1572,8 @@
     <MESSAGE value="chane test page qualities&#10;" />
     <MESSAGE value="change test" />
     <MESSAGE value="func" />
-    <option name="LAST_COMMIT_MESSAGE" value="func" />
+    <MESSAGE value="new changes in test and pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="new changes in test and pages" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1614,10 +1586,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/url.txt" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/Settings.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
     <entry file="file://$PROJECT_DIR$/.idea/libraries/._Maven__cglib_cglib_nodep_2_1_3.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1685,6 +1653,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="78" column="65" selection-start-line="78" selection-start-column="65" selection-end-line="78" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1692,6 +1665,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1699,6 +1675,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1706,13 +1685,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/qualities.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1723,31 +1698,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="27" column="91" selection-start-line="26" selection-start-column="7" selection-end-line="27" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestPhotosMem1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestMemTitle2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1755,6 +1710,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1762,6 +1718,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1769,6 +1726,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1875,8 +1833,77 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCvMember2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="20" column="0" selection-start-line="18" selection-start-column="7" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextInfex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="22" column="64" selection-start-line="21" selection-start-column="7" selection-end-line="22" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/lizzQ.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/qualities.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestPhotosMem1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyQualitiesMember1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
