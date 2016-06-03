@@ -6,8 +6,7 @@ import org.junit.*;
 import static org.junit.Assert.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
-
-public class VerifyQualitiesMember1 {
+public class VerifyTextLanguages {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -22,45 +21,46 @@ public class VerifyQualitiesMember1 {
     }
 
     @Test
-    public void testVerifyQualitiesMember1() throws Exception {
-        driver.get(baseUrl + "/src/main/index.html");
-
-        driver.findElement(By.xpath("(//a[contains(text(),'Go')])[2]")).click();
+    public void testVerifyTextLanguages() throws Exception {
+        //driver.get(baseUrl + "/src/main/index.html");
+        driver.get(baseUrl+ "/index.html");
+        driver.findElement(By.xpath("(//a[contains(text(),'Go')])[3]")).click();
         try {
-            assertEquals("Rápido aprendizaje", driver.findElement(By.cssSelector("li")).getText());
+            assertEquals("Language", driver.getTitle());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
         try {
-            assertEquals("Buena comprensión", driver.findElement(By.xpath("//li[2]")).getText());
+            assertEquals("Languages", driver.findElement(By.cssSelector("h2.title")).getText());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
         try {
-            assertEquals("Buena facilidad de palabra", driver.findElement(By.xpath("//li[3]")).getText());
+            assertEquals("Languages", driver.findElement(By.xpath("//div[3]/h2")).getText());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
         try {
-            assertEquals("Aceptación de ideas innovadoras", driver.findElement(By.xpath("//li[4]")).getText());
+            assertEquals("English", driver.findElement(By.cssSelector("li")).getText());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
         try {
-            assertEquals("Capacidad para relacionarse con los demás", driver.findElement(By.xpath("//li[5]")).getText());
+            assertEquals("English", driver.findElement(By.xpath("//div[3]/ul/li")).getText());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
         try {
-            assertEquals("Capacidad para trabajar en equipo", driver.findElement(By.xpath("//li[6]")).getText());
+            assertEquals("Spanish", driver.findElement(By.xpath("//li[2]")).getText());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
         try {
-            assertEquals("Regida por valores humanos y sociales", driver.findElement(By.xpath("//li[7]")).getText());
+            assertEquals("Spanish", driver.findElement(By.xpath("//div[3]/ul/li[2]")).getText());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
+        driver.findElement(By.cssSelector("img[alt=\"Home\"]")).click();
     }
 
     @After

@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/gabyQ.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/lizzQ.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/VerifyQualitiesMember1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/VerifyTextIndex.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestCvMember2.class" afterPath="$PROJECT_DIR$/target/test-classes/TestCvMember2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestElementLanguage.class" afterPath="$PROJECT_DIR$/target/test-classes/TestElementLanguage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestElementsAK.class" afterPath="$PROJECT_DIR$/target/test-classes/TestElementsAK.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestElementsQualities.class" afterPath="$PROJECT_DIR$/target/test-classes/TestElementsQualities.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/VerifyQualitiesMember2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/VerifyTextLanguages.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/qualities.html" afterPath="$PROJECT_DIR$/src/main/qualities.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/VerifyQualitiesMember1.java" afterPath="$PROJECT_DIR$/src/test/java/VerifyQualitiesMember1.java" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,26 +34,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestElementsAK.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestElementsAK.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestElementLanguage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestElementLanguage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TestCvMember2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCvMember2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,8 +57,8 @@
       <file leaf-file-name="VerifyTextMember1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="22" column="64" selection-start-line="21" selection-start-column="7" selection-end-line="22" selection-end-column="64" />
+            <state relative-caret-position="153">
+              <caret line="29" column="45" selection-start-line="28" selection-start-column="7" selection-end-line="29" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -94,8 +67,8 @@
       <file leaf-file-name="VerifyTextIndex.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextIndex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,11 +95,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VerifyQualitiesMember1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VerifyQualitiesMember1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/VerifyQualitiesMember1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            <state relative-caret-position="254">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerifyQualitiesMember2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/VerifyQualitiesMember2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerifyTextLanguages.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextLanguages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -172,8 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing/WebdriverJenkinsGithub/src/test/java/ImbdTestsNew.java" />
-        <option value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing/WebdriverJenkinsGithub/src/test/java/ImdbTests.java" />
         <option value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing/WebdriverJenkinsGithub/pom.xml" />
         <option value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing/WebdriverJenkinsGithub/src/main/index.html" />
         <option value="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class" />
@@ -223,6 +218,8 @@
         <option value="$PROJECT_DIR$/src/main/qualities.html" />
         <option value="$PROJECT_DIR$/src/test/java/VerifyTextIndex.java" />
         <option value="$PROJECT_DIR$/src/test/java/VerifyQualitiesMember1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/VerifyQualitiesMember2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/VerifyTextLanguages.java" />
       </list>
     </option>
   </component>
@@ -508,49 +505,7 @@
       <recent name="D:\WebdriverJenkinsGithub\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.VerifyQualitiesMember1.testVerifyQualitiesMember1">
-    <configuration default="false" name="TestElementsAK.testElementsAK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="WebdriverJenkinsGithub" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestElementsAK" />
-      <option name="METHOD_NAME" value="testElementsAK" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea -DbaseURL=&quot;http://localhost:8080/calidad&quot;" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestElementLanguage.testElementLanguage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="WebdriverJenkinsGithub" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestElementLanguage" />
-      <option name="METHOD_NAME" value="testElementLanguage" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea -DbaseURL=&quot;http://localhost:8080/calidad&quot;" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.VerifyTextLanguages.testVerifyTextLanguages">
     <configuration default="false" name="TestCvMember2.testCvMember2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="WebdriverJenkinsGithub" />
@@ -601,6 +556,48 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="VerifyQualitiesMember1" />
       <option name="METHOD_NAME" value="testVerifyQualitiesMember1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -DbaseURL=&quot;http://localhost:8080/calidad&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="VerifyQualitiesMember2.testVerifyQualitiesMember2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="WebdriverJenkinsGithub" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VerifyQualitiesMember2" />
+      <option name="METHOD_NAME" value="testVerifyQualitiesMember2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -DbaseURL=&quot;http://localhost:8080/calidad&quot;" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="VerifyTextLanguages.testVerifyTextLanguages" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="WebdriverJenkinsGithub" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VerifyTextLanguages" />
+      <option name="METHOD_NAME" value="testVerifyTextLanguages" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea -DbaseURL=&quot;http://localhost:8080/calidad&quot;" />
       <option name="PARAMETERS" value="" />
@@ -1061,19 +1058,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.try" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.all tests in package" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestElementsAK.testElementsAK" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestElementLanguage.testElementLanguage" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestCvMember2.testCvMember2" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.VerifyTextIndex.testVerifyTextIndex" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.VerifyQualitiesMember1.testVerifyQualitiesMember1" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestCvMember2.testCvMember2" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.VerifyTextIndex.testVerifyTextIndex" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.VerifyQualitiesMember1.testVerifyQualitiesMember1" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.VerifyQualitiesMember2.testVerifyQualitiesMember2" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.VerifyTextLanguages.testVerifyTextLanguages" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.VerifyQualitiesMember1.testVerifyQualitiesMember1" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.VerifyTextIndex.testVerifyTextIndex" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestCvMember2.testCvMember2" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestElementLanguage.testElementLanguage" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestElementsAK.testElementsAK" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.VerifyTextLanguages.testVerifyTextLanguages" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.VerifyQualitiesMember2.testVerifyQualitiesMember2" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.VerifyQualitiesMember1.testVerifyQualitiesMember1" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.VerifyTextIndex.testVerifyTextIndex" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestCvMember2.testCvMember2" />
       </list>
     </recent_temporary>
   </component>
@@ -1106,14 +1103,7 @@
       <workItem from="1464386259571" duration="14002000" />
       <workItem from="1464662671300" duration="665000" />
       <workItem from="1464719293211" duration="503000" />
-      <workItem from="1464963979596" duration="2856000" />
-    </task>
-    <task id="LOCAL-00038" summary="Añadir imagenes  - perfiles">
-      <created>1464128082610</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1464128082610</updated>
+      <workItem from="1464963979596" duration="3623000" />
     </task>
     <task id="LOCAL-00039" summary="Añadir imagenes  - perfiles">
       <created>1464136151584</created>
@@ -1451,30 +1441,31 @@
       <option name="project" value="LOCAL" />
       <updated>1464965113247</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="new test and images">
+      <created>1464967382303</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1464967382303</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCvMember2_testCvMember2 - 2016.06.03 at 09h 42m 13s.xml">
-      <configuration name="TestCvMember2.testCvMember2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCvMember2_testCvMember2 - 2016.06.03 at 09h 42m 46s.xml">
-      <configuration name="TestCvMember2.testCvMember2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCvMember2_testCvMember2 - 2016.06.03 at 09h 43m 00s.xml">
-      <configuration name="TestCvMember2.testCvMember2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestElementLanguage_testElementLanguage - 2016.06.03 at 09h 37m 43s.xml">
-      <configuration name="TestElementLanguage.testElementLanguage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestElementLanguage_testElementLanguage - 2016.06.03 at 09h 38m 13s.xml">
-      <configuration name="TestElementLanguage.testElementLanguage" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="VerifyQualitiesMember1_testVerifyQualitiesMember1 - 2016.06.03 at 10h 21m 07s.xml">
       <configuration name="VerifyQualitiesMember1.testVerifyQualitiesMember1" configurationId="JUnit" />
     </history-entry>
     <history-entry file="VerifyQualitiesMember1_testVerifyQualitiesMember1 - 2016.06.03 at 10h 21m 38s.xml">
       <configuration name="VerifyQualitiesMember1.testVerifyQualitiesMember1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyQualitiesMember2_testVerifyQualitiesMember2 - 2016.06.03 at 10h 26m 20s.xml">
+      <configuration name="VerifyQualitiesMember2.testVerifyQualitiesMember2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyQualitiesMember2_testVerifyQualitiesMember2 - 2016.06.03 at 10h 27m 17s.xml">
+      <configuration name="VerifyQualitiesMember2.testVerifyQualitiesMember2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyQualitiesMember2_testVerifyQualitiesMember2 - 2016.06.03 at 10h 28m 03s.xml">
+      <configuration name="VerifyQualitiesMember2.testVerifyQualitiesMember2" configurationId="JUnit" />
     </history-entry>
     <history-entry file="VerifyTextIndex_testVerifyTextIndex - 2016.06.03 at 10h 07m 29s.xml">
       <configuration name="VerifyTextIndex.testVerifyTextIndex" configurationId="JUnit" />
@@ -1485,9 +1476,15 @@
     <history-entry file="VerifyTextIndex_testVerifyTextIndex - 2016.06.03 at 10h 09m 41s.xml">
       <configuration name="VerifyTextIndex.testVerifyTextIndex" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="VerifyTextLanguages_testVerifyTextLanguages - 2016.06.03 at 10h 33m 33s.xml">
+      <configuration name="VerifyTextLanguages.testVerifyTextLanguages" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyTextLanguages_testVerifyTextLanguages - 2016.06.03 at 10h 34m 11s.xml">
+      <configuration name="VerifyTextLanguages.testVerifyTextLanguages" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69900000" />
+    <option name="totallyTimeSpent" value="70667000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1548,7 +1545,6 @@
     <ignored-roots>
       <path value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing" />
     </ignored-roots>
-    <MESSAGE value="test link work projects&#10;" />
     <MESSAGE value="test linked member2&#10;" />
     <MESSAGE value="new change baseURL all test&#10;" />
     <MESSAGE value="add new link&#10;" />
@@ -1573,7 +1569,8 @@
     <MESSAGE value="change test" />
     <MESSAGE value="func" />
     <MESSAGE value="new changes in test and pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="new changes in test and pages" />
+    <MESSAGE value="new test and images" />
+    <option name="LAST_COMMIT_MESSAGE" value="new test and images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1586,14 +1583,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/._Maven__cglib_cglib_nodep_2_1_3.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/test-classes/AllMusicParameterizedTest.class" />
     <entry file="file://$PROJECT_DIR$/target/test-classes/ImbdTestsNew.class" />
     <entry file="file://$PROJECT_DIR$/src/test/java/GoogleTests.java" />
@@ -1854,14 +1843,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="22" column="64" selection-start-line="21" selection-start-column="7" selection-end-line="22" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/lizzQ.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1889,18 +1870,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextIndex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextMember1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="29" column="45" selection-start-line="28" selection-start-column="7" selection-end-line="29" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/VerifyQualitiesMember1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        <state relative-caret-position="254">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyQualitiesMember2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyTextLanguages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
