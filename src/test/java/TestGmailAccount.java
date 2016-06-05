@@ -82,6 +82,7 @@ public class TestGmailAccount {
         }
     }
 
+
     private String closeAlertAndGetItsText() {
         try {
             Alert alert = driver.switchTo().alert();
