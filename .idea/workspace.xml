@@ -82,8 +82,8 @@
       <file leaf-file-name="TestGmailAccount.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestGmailAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-870">
-              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+            <state relative-caret-position="218">
+              <caret line="97" column="5" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1052,14 +1052,7 @@
       <workItem from="1464662671300" duration="665000" />
       <workItem from="1464719293211" duration="503000" />
       <workItem from="1464963979596" duration="8625000" />
-      <workItem from="1465148780557" duration="6474000" />
-    </task>
-    <task id="LOCAL-00047" summary="change baseURL">
-      <created>1464197727649</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1464197727650</updated>
+      <workItem from="1465148780557" duration="6558000" />
     </task>
     <task id="LOCAL-00048" summary="new change baseURL">
       <created>1464198338221</created>
@@ -1397,7 +1390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1465161934638</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="new test">
+      <created>1465162517812</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1465162517812</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1433,7 +1433,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82143000" />
+    <option name="totallyTimeSpent" value="82227000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1896,8 +1896,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestGmailAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-870">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        <state relative-caret-position="218">
+          <caret line="97" column="5" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
