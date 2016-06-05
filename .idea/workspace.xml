@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="new workspace">
+    <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebdriverJenkinsGithub.iml" afterPath="$PROJECT_DIR$/WebdriverJenkinsGithub.iml" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1649">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,7 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/Settings.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/target/test-classes/ImbdTestsNew.class" />
         <option value="$PROJECT_DIR$/src/test/java/AllMusicParameterizedTest.java" />
@@ -131,6 +129,7 @@
         <option value="$PROJECT_DIR$/src/test/java/TestNumberLinks.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestGmailAccount.java" />
         <option value="$PROJECT_DIR$/src/main/index.html" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -1049,14 +1048,7 @@
       <workItem from="1464662671300" duration="665000" />
       <workItem from="1464719293211" duration="503000" />
       <workItem from="1464963979596" duration="8625000" />
-      <workItem from="1465148780557" duration="7064000" />
-    </task>
-    <task id="LOCAL-00049" summary="new change baseURL all test&#10;">
-      <created>1464198984556</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1464198984556</updated>
+      <workItem from="1465148780557" duration="7155000" />
     </task>
     <task id="LOCAL-00050" summary="new change baseURL all test&#10;">
       <created>1464198996602</created>
@@ -1394,7 +1386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1465162606178</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="new workspace">
+      <created>1465163111883</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1465163111883</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1430,7 +1429,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82733000" />
+    <option name="totallyTimeSpent" value="82824000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1867,7 +1866,7 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1649">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
