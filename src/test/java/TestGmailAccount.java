@@ -73,6 +73,7 @@ public class TestGmailAccount {
         }
     }
 
+
     private boolean isAlertPresent() {
         try {
             driver.switchTo().alert();
