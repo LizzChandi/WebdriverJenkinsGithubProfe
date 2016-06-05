@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/gmail.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/index.html" afterPath="$PROJECT_DIR$/src/main/index.html" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1054,14 +1052,7 @@
       <workItem from="1464662671300" duration="665000" />
       <workItem from="1464719293211" duration="503000" />
       <workItem from="1464963979596" duration="8625000" />
-      <workItem from="1465148780557" duration="5830000" />
-    </task>
-    <task id="LOCAL-00044" summary="test verify text">
-      <created>1464193470292</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1464193470292</updated>
+      <workItem from="1465148780557" duration="5868000" />
     </task>
     <task id="LOCAL-00045" summary="test verify text member1">
       <created>1464194511182</created>
@@ -1399,7 +1390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464972827760</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="upload new image and changes in index">
+      <created>1465161891176</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1465161891204</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1435,7 +1433,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81499000" />
+    <option name="totallyTimeSpent" value="81537000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1496,7 +1494,6 @@
     <ignored-roots>
       <path value="$USER_HOME$/Dropbox/aulasShared/2015-16/MEICM_QualidadeDeSoftware/3 - Prática/02_Software_Testing" />
     </ignored-roots>
-    <MESSAGE value="change info lizz" />
     <MESSAGE value="add new page qualities and change index page&#10;" />
     <MESSAGE value="change in qualities and add new images&#10;" />
     <MESSAGE value="test links of page areas" />
@@ -1521,7 +1518,8 @@
     <MESSAGE value="add footer and new test" />
     <MESSAGE value="add footer in all pages" />
     <MESSAGE value="change base URL" />
-    <option name="LAST_COMMIT_MESSAGE" value="change base URL" />
+    <MESSAGE value="upload new image and changes in index" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload new image and changes in index" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
