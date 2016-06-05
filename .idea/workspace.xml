@@ -1048,14 +1048,7 @@
       <workItem from="1464662671300" duration="665000" />
       <workItem from="1464719293211" duration="503000" />
       <workItem from="1464963979596" duration="8625000" />
-      <workItem from="1465148780557" duration="7155000" />
-    </task>
-    <task id="LOCAL-00050" summary="new change baseURL all test&#10;">
-      <created>1464198996602</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1464198996656</updated>
+      <workItem from="1465148780557" duration="7262000" />
     </task>
     <task id="LOCAL-00051" summary="add searcher">
       <created>1464208315645</created>
@@ -1393,7 +1386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1465163111883</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="new workspace">
+      <created>1465163200585</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1465163200585</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1429,7 +1429,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82824000" />
+    <option name="totallyTimeSpent" value="82931000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1528,7 +1528,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/ImdbTests.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/VerifyInfoMember1.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/TestSearcher.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/TestLinkWP.java" />
@@ -1860,6 +1859,14 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1783">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
