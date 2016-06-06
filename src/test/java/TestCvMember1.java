@@ -20,7 +20,6 @@ public class TestCvMember1 {
         baseUrl = String.valueOf(System.getProperty("baseURL"));
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
-
     @Test
 
     public void testCvMember1() throws Exception {
