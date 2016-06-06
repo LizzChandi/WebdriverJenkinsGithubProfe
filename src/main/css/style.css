@@ -33,7 +33,6 @@ Inspired by the dribble shot http://dribbble.com/shots/1285240-Freebie-Flat-Pric
 .group {
     zoom: 1;  /*For IE 6/7 (trigger hasLayout) */
 }
-
 body {
     background: #F2F2F2;
     font-family: 'Droid Sans', sans-serif;
