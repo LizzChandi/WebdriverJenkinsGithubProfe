@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="372ae81e-c442-4f1c-b470-3f3ce4a6f874" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/index.html" afterPath="$PROJECT_DIR$/src/main/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/css/style.css" afterPath="$PROJECT_DIR$/src/main/css/style.css" />
     </list>
     <ignored path="WebdriverJenkinsGithub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,8 +49,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+            <state relative-caret-position="703">
+              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -217,8 +217,8 @@
         <option value="$PROJECT_DIR$/src/test/java/testOptionList.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestNumberLinks.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestGmailAccount.java" />
-        <option value="$PROJECT_DIR$/src/main/css/style.css" />
         <option value="$PROJECT_DIR$/src/main/index.html" />
+        <option value="$PROJECT_DIR$/src/main/css/style.css" />
       </list>
     </option>
   </component>
@@ -330,7 +330,14 @@
         </subPane>
       </pane>
       <pane id="ProjectPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebdriverJenkinsGithub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
       <pane id="PackagesPane">
         <subPane>
@@ -805,13 +812,6 @@
       <workItem from="1464963979596" duration="8625000" />
       <workItem from="1465148780557" duration="6558000" />
     </task>
-    <task id="LOCAL-00066" summary="add new page qualities and change index page&#10;">
-      <created>1464391680922</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1464391680922</updated>
-    </task>
     <task id="LOCAL-00067" summary="change in qualities and add new images&#10;">
       <created>1464391793184</created>
       <option name="number" value="00067" />
@@ -1148,7 +1148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1465175017506</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="CSS change total index">
+      <created>1465175142469</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1465175142469</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1640,8 +1647,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        <state relative-caret-position="703">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding />
         </state>
       </provider>
