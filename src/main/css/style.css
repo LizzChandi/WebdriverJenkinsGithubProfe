@@ -40,12 +40,8 @@ body {
     line-height: 1;
     font-size: 16px;    
 }
-.wrapper {
-
-}
 .pricing-table {
     width: 60%;
-    margin: 70px ;
     text-align: center;
     padding: 10px;
     padding-right: 10px;
@@ -57,7 +53,7 @@ body {
     margin-bottom: 4rem;
 }
 .block{
-    width: 30%;
+    width: 38%;
     margin: 0 40px;
     overflow: hidden;
     -webkit-border-radius: 5px;
