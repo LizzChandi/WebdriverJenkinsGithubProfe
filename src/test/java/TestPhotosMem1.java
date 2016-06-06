@@ -42,7 +42,6 @@ public class TestPhotosMem1 {
             fail(verificationErrorString);
         }
     }
-
     private boolean isElementPresent(By by) {
         try {
             driver.findElement(by);
@@ -51,7 +50,6 @@ public class TestPhotosMem1 {
             return false;
         }
     }
-
     private boolean isAlertPresent() {
         try {
             driver.switchTo().alert();
