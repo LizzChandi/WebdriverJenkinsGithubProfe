@@ -25,7 +25,7 @@ public class VerifyQualitiesMember1 {
     public void testVerifyQualitiesMember1() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
 
-        driver.findElement(By.xpath("(//a[contains(text(),'Go')])[2]")).click();
+        driver.findElement(By.linkText("Members Qualities")).click();
         try {
             assertEquals("Rápido aprendizaje", driver.findElement(By.cssSelector("li")).getText());
         } catch (Error e) {

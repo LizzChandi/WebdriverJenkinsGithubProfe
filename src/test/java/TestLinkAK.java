@@ -24,7 +24,7 @@ public class TestLinkAK {
     public void testLinkAK() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
 
-        driver.findElement(By.linkText("Go")).click();
+        driver.findElement(By.linkText("Knowledge areas")).click();
         driver.findElement(By.cssSelector("img[alt=\"Home\"]")).click();
     }
 

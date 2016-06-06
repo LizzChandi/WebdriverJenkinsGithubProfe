@@ -29,7 +29,7 @@ public class TestLinkLanguage {
     public void testLinkLanguage() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
 
-        driver.findElement(By.xpath("(//a[contains(text(),'Go')])[3]")).click();
+        driver.findElement(By.linkText("Languages")).click();
         driver.findElement(By.cssSelector("img[alt=\"Home\"]")).click();
     }
 

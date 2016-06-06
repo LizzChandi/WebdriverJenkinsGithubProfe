@@ -24,7 +24,7 @@ public class VerifyTextLanguages {
     public void testVerifyTextLanguages() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
 
-        driver.findElement(By.xpath("(//a[contains(text(),'Go')])[3]")).click();
+        driver.findElement(By.linkText("Languages")).click();
         try {
             assertEquals("Language", driver.getTitle());
         } catch (Error e) {

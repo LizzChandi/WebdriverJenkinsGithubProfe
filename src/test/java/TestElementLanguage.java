@@ -32,11 +32,11 @@ public class TestElementLanguage {
         driver.get(baseUrl + "/src/main/index.html");
 
         try {
-            assertEquals("Languages: Go", driver.findElement(By.xpath("//p[6]")).getText());
+            assertEquals("Languages", driver.findElement(By.xpath("//p[6]")).getText());
         } catch (Error e) {
             verificationErrors.append(e.toString());
         }
-        driver.findElement(By.xpath("(//a[contains(text(),'Go')])[3]")).click();
+        driver.findElement(By.linkText("Languages")).click();
         try {
             assertEquals("Language", driver.getTitle());
         } catch (Error e) {
