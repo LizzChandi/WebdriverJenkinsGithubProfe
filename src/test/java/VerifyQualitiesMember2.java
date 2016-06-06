@@ -25,7 +25,7 @@ public class VerifyQualitiesMember2 {
     public void testVerifyQualitiesMember2() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
 
-        driver.findElement(By.linkText("Member Qualities")).click();
+        driver.findElement(By.linkText("Members Qualities")).click();
         try {
             assertEquals("Researcher Spirit", driver.findElement(By.xpath("//div[3]/ul/li")).getText());
         } catch (Error e) {

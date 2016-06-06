@@ -29,7 +29,7 @@ public class TestElementsAK {
     public void testElementsAK() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
 
-        driver.findElement(By.linkText("Go")).click();
+        driver.findElement(By.linkText("Knowledge areas")).click();
         try {
             assertEquals("Areas of knowledge", driver.getTitle());
         } catch (Error e) {

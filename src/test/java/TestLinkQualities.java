@@ -25,7 +25,7 @@ public class TestLinkQualities {
     public void testLinkQualities() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
 
-        driver.findElement(By.linkText("Member Qualities")).click();
+        driver.findElement(By.linkText("Members Qualities")).click();
         driver.findElement(By.cssSelector("img[alt=\"Home\"]")).click();
     }
 

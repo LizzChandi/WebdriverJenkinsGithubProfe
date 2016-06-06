@@ -26,7 +26,7 @@ public class TestElementsQualities {
     public void testElementsQualities() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
 
-        driver.findElement(By.linkText("Member Qualities")).click();
+        driver.findElement(By.linkText("Members Qualities")).click();
 
         try {
             assertTrue(isElementPresent(By.cssSelector("ul.features > img")));
