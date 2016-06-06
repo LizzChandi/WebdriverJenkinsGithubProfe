@@ -44,10 +44,10 @@ img { border: 0; max-width: 100%; }
 /** page structure **/
 #wrapper {
   display: block;
-  width: 350px;
+  width: 35px;
   background: #fff;
   margin: 0 auto;
-  padding: 10px 17px;
+  padding: 5px 5px;
   -webkit-box-shadow: 2px 2px 3px -1px rgba(0,0,0,0.35);
 }
 
