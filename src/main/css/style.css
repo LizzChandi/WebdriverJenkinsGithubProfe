@@ -37,7 +37,7 @@ Inspired by the dribble shot http://dribbble.com/shots/1285240-Freebie-Flat-Pric
   padding: 12px 30px;
   padding-left: 42px;
 }
-#keywords thead tr th span {
+#keywords thead tr th span a {
   padding-right: 20px;
   background-repeat: no-repeat;
   background-position: 100% 100%;
