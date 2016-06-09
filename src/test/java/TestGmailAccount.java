@@ -31,7 +31,6 @@ public class TestGmailAccount {
     @Test
     public void testGmailAccount() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
-
         driver.findElement(By.cssSelector("img[alt=\"Gmail\"]")).click();
         String expectedTitle = "Inicio de sesión - Cuentas de Google";
         String actualTitle = driver.getTitle();
