@@ -28,7 +28,6 @@ public class TestGmailAccount {
         baseUrl = String.valueOf(System.getProperty("baseURL"));
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
-
     @Test
     public void testGmailAccount() throws Exception {
         driver.get(baseUrl + "/src/main/index.html");
